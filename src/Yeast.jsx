@@ -11,35 +11,45 @@ export default function Yeast(){
             }
         })
         .then(function(response){
-          //console.log(response)
           return response.json();
         })
         .then(function(myJson) {
-          //console.log(myJson);
           setData(myJson)
         });
     }
     useEffect(()=>{
       getData()
       },[])
+
     return(
-        <div className="flex-container">
-            <div className="flex-item">
-        {
-             data && data.length>0 && data.map((item)=>
-                <div className="card" key={item.ID}>
-                    <div>
-                        <span className='hopBold text-blue'>{item.Name}</span>
-                        <span className='hopItem'>{item.Manufacturer} </span> 
-                        <span className='hopItem'>{item.Type}</span>
-                    </div>
-                    <div>
-                        <img src={`./img/${item.Image}`} height="150px" />
-                    </div>
-                </div>
-            )
+      <div className="flex-container">
+
+          {
+              data && data.length>0 && data.map((item)=>
+                  <div className="card flex-item" key={item.ID}>
+                      <div className='space-wrap'>
+                        <span className='yeastName text-blue'>{item.Name}</span>
+                        <span className='yeastMnf'>{item.Manufacturer} </span> 
+                        
+                      </div>
+                      <div className='row'>
+                        <div>
+                          <img src={`./img/${item.Image}`} height="150px" />
+                        </div>
+                        <div>
+                          <div className='yeastItem'>Type: {item.Type}</div>
+                          <div className='yeastItem'>Attenuation: {item.Attenuation}</div>
+                          <div className='yeastItem'>Flocculation: {item.Flocculation}</div>
+                          <div className='yeastItem'>Optimum Temp:{item.Optimum_Temp}</div>
+                          <div className='yeastItem'>Similar Strains:{item.Compare_To}</div>
+                        </div>
+                          
+                      </div>
+
+                  </div>
+              )
            }
-           </div>
-          </div>
+
+      </div>
     )
 }

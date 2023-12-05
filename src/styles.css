@@ -40,11 +40,13 @@ label{
 }
 .flex-container{
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: wrap !important;
 }
-.flex-container > div {
-    background-color: #f1f1f1;
-    width:100%;
+
+.flex-item {
+    flex: auto;
+    width:45% !important;
+    
 }
 .card{
     border:#ccc solid 1px;
@@ -52,21 +54,40 @@ label{
     padding: 1em;
     border-radius: 3px;/**/
     width: 100%;
+    box-shadow: rgba(99, 99, 99, 0.2) 1px 2px 8px 1px;
 }
 .hopBold{
     font-weight: bold;
-    margin-left: 1rem;
-    margin-right: 1rem;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+.space-wrap{
+    padding: .125em;
+    margin: .125m;
 }
 .hopItem{
-    margin-left: 1rem;
-    margin-right: 1rem;
+    margin-left: 1em;
+    margin-right: 1em;
 }
 .text-blue{
     color: dodgerblue;
 }
 .text-grey{
     color:#666;
+}
+
+.yeastName{
+    font-weight: bold;
+}
+.yeastMnf{
+    color:#666;
+    font-size: small;
+    float:right;
+}
+.yeastItem{
+    margin-left: .5em;
+    margin-bottom: .4em;
+    font-size: small;
 }
 .indent{
     margin-left: 1.5rem;
