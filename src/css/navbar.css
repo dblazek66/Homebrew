@@ -1,0 +1,76 @@
+/* Navbar container */
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    width: 100%;
+  }
+  
+  /* Links inside the navbar */
+  .navbar a {
+    float: left;
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* The nav-dropdown container */
+  .nav-dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  /* nav-dropdown button */
+  .nav-dropdown .dropbtn {
+    font-size: 17px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit; /* Important for vertical align on mobile phones */
+    margin: 0; /* Important for vertical align on mobile phones */
+  }
+  
+  /* Add a background color to navbar links on hover */
+  .navbar a:hover, .nav-dropdown:hover .dropbtn {
+    background-color: #111 ;
+  }
+  
+  /* nav-dropdown content (hidden by default) */
+  .nav-dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #ececec;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the nav-dropdown */
+  .nav-dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  /* Add a grey background color to nav-dropdown links on hover */
+  .nav-dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  
+  /* Show the nav-dropdown menu on hover */
+  .nav-dropdown:hover .nav-dropdown-content {
+    display: block;
+  }
+
+
+  .navbar.sticky {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }

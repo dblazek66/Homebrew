@@ -1,0 +1,1866 @@
+[
+  {
+    "id": 0,
+    "Name": "Admiral",
+    "Description": "ORANGE | TEA | FRESH | SAP",
+    "AA": "13%-16.2%",
+    "Application": "Bittering",
+    "Substitutes": "Chinook | Northdown | Challenger | Centennial | Cascade (US) | Amarillo | Target"
+  },
+  {
+    "id": 1,
+    "Name": "African Queen",
+    "Description": "DARK FRUIT | LEMONGRASS",
+    "AA": "10%�17.0%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Amarillo | Cascade | Mosaic | Simco | Citra"
+  },
+  {
+    "id": 2,
+    "Name": "Ahtanum",
+    "Description": "GRAPEFRUIT | FLORAL�| CEDAR",
+    "AA": "4%-6.3%",
+    "Application": "Aroma",
+    "Substitutes": "Cascade� Amarillo"
+  },
+  {
+    "id": 3,
+    "Name": "Amarillo",
+    "Description": "GRAPEFRUIT | ORANGE�| LEMON | MELON | APRICOT�| PEACH",
+    "AA": "8%-11%",
+    "Application": "Aroma",
+    "Substitutes": "Cascade (US) | Centennial | Ahtanum� | Chinook | Summer"
+  },
+  {
+    "id": 4,
+    "Name": "Amethyst",
+    "Description": "EARTHY | CITRUS | SPICY",
+    "AA": "2%-6%",
+    "Application": "Aroma",
+    "Substitutes": "Saaz | Loral�"
+  },
+  {
+    "id": 5,
+    "Name": "Apollo",
+    "Description": "CLEAN | GRAPEFRUIT",
+    "AA": "15%-20%",
+    "Application": "Bittering",
+    "Substitutes": "Nugget | Columbus | Zeus"
+  },
+  {
+    "id": 6,
+    "Name": "Apolon",
+    "Description": "MILD�",
+    "AA": "10%-12%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Syrian Goldings | Brewers gold | Syrian Aurora"
+  },
+  {
+    "id": 7,
+    "Name": "Aquila",
+    "Description": "AROMA",
+    "AA": "6.7%-8.9%",
+    "Application": "Aroma",
+    "Substitutes": "Cluster | Galena"
+  },
+  {
+    "id": 8,
+    "Name": "Aramis",
+    "Description": "GREEN | HERBAL | SPICY | CITRUS",
+    "AA": "7.9%-8.3%",
+    "Application": "Aroma",
+    "Substitutes": "Willamette | Challenger | Ahtanum"
+  },
+  {
+    "id": 9,
+    "Name": "Archer",
+    "Description": "APRICOT | PEACH | FLORAL | LIME",
+    "AA": "4%%-6%",
+    "Application": "Aroma�",
+    "Substitutes": "Willamette | Challenger | Strisselspalt"
+  },
+  {
+    "id": 10,
+    "Name": "Ariana",
+    "Description": "BERRY | CITRUS | WOODY",
+    "AA": "9%-13%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Mandarina Bavaria | Hallertau Blanc"
+  },
+  {
+    "id": 11,
+    "Name": "Atlas (Styrian Atlas)",
+    "Description": "LIME | BLOSSOM | PINE",
+    "AA": "9%-11%",
+    "Application": "Aroma",
+    "Substitutes": "Brewers gold | Syrian Aurora | Apolon"
+  },
+  {
+    "id": 12,
+    "Name": "Azacca",
+    "Description": "MANGO | PAPAYA | ORANGE | GRAPEFRUIT | LEMON | PINE | SPICY | PINEAPPLE | GRASSY| TROPICAL FRUIT | CITRUS",
+    "AA": "14%-16%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Citra | Galaxy | Mosaic"
+  },
+  {
+    "id": 13,
+    "Name": "Banner",
+    "Description": "BITTER | AROMA",
+    "AA": "8.4%-13%",
+    "Application": "Bittering",
+    "Substitutes": "Aquila | Cluster | Galena"
+  },
+  {
+    "id": 14,
+    "Name": "Belma",
+    "Description": "ORANGE | TROPICAL",
+    "AA": "9.4%-12.1%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Summer | Huell Melon"
+  },
+  {
+    "id": 15,
+    "Name": "Bitter Gold",
+    "Description": "PEAR | WATERMELON�|�STONE FRUIT | FRESH CUT GRASS",
+    "AA": "15.4%-18.8%",
+    "Application": "Bittering",
+    "Substitutes": "Galena | Nugget"
+  },
+  {
+    "id": 16,
+    "Name": "Boadicea",
+    "Description": "FLORAL | ORCHARD BLOSSOM | RIPE FRUIT",
+    "AA": "7%-10%",
+    "Application": "Aroma",
+    "Substitutes": "Green Bullet | Cascade | Columbus | Chinook"
+  },
+  {
+    "id": 17,
+    "Name": "Bouclier",
+    "Description": "HERBAL | GRASS | SPICY",
+    "AA": "5.2%-9%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Chinook"
+  },
+  {
+    "id": 18,
+    "Name": "Bramling Cross",
+    "Description": "BLACKCURRANT | LOGANBERRY | VANILLA",
+    "AA": "5%-7.8%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Whitbread Golding"
+  },
+  {
+    "id": 19,
+    "Name": "Bravo",
+    "Description": "ORANGE | VANILLA",
+    "AA": "14%-17%",
+    "Application": "Bittering",
+    "Substitutes": "Columbus | Zeus"
+  },
+  {
+    "id": 20,
+    "Name": "Brewer�s Gold",
+    "Description": "BLACKCURRANT | SPICY",
+    "AA": "8.1%-13.1%",
+    "Application": "Bittering",
+    "Substitutes": "Cascade | Bullion"
+  },
+  {
+    "id": 21,
+    "Name": "Brewer�s Gold, UK",
+    "Description": "SPICY | BLACKCURRANT",
+    "AA": "7.1%-11.3%",
+    "Application": "Bittering",
+    "Substitutes": "Bullion | Cascade | Galena | Northern Brewer (US) | Northdown"
+  },
+  {
+    "id": 22,
+    "Name": "Bullion, UK",
+    "Description": "ZESTY | SPICY | DARK RED FRUIT",
+    "AA": "5.3%-9.5%",
+    "Application": "Bittering",
+    "Substitutes": "Columbus | Northern Brewer | Galena | Chinook | Brewer�s Gold"
+  },
+  {
+    "id": 23,
+    "Name": "Bullion, USA",
+    "Description": "BLACKCURRANT | ZESTY",
+    "AA": "6.7%-12.9%",
+    "Application": "Bittering",
+    "Substitutes": "Columbus | Northern Brewer | Galena | Chinook | Brewer�s Gold"
+  },
+  {
+    "id": 24,
+    "Name": "Calicross",
+    "Description": "FLORAL | FRUITY | EARTHY",
+    "AA": "5.8%-7.9%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Cluster"
+  },
+  {
+    "id": 25,
+    "Name": "Calypso",
+    "Description": "FRUIT | APPLE | PEAR | CITRUS",
+    "AA": "12%-14%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Galena | Cascade | Huell Melon"
+  },
+  {
+    "id": 26,
+    "Name": "Canadian Redvine",
+    "Description": "CHERRY | GRAPEFRUIT PEEL",
+    "AA": "5%-6%",
+    "Application": "Aroma",
+    "Substitutes": "Newport | Magnum | Galena"
+  },
+  {
+    "id": 27,
+    "Name": "Cascade, Cryo",
+    "Description": "GRAPEFRUIT | FLORAL | PINE",
+    "AA": "11%-13%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Centennial | Amarillo | Columbus | Ahtanum"
+  },
+  {
+    "id": 28,
+    "Name": "Cascade, Hop Extract",
+    "Description": "GRAPEFRUIT | FLORAL | PINE",
+    "AA": "38.80%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Centennial | Amarillo | Columbus | Ahtanum"
+  },
+  {
+    "id": 29,
+    "Name": "Cascade, USA",
+    "Description": "GRAPEFRUIT | FLORAL | PINE",
+    "AA": "4.5%-8.9%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Centennial | Amarillo | Columbus | Ahtanum"
+  },
+  {
+    "id": 30,
+    "Name": "Cashmere",
+    "Description": "MELON | LEMON | LIME | SPICY",
+    "AA": "7.7%-9.1%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Cascade"
+  },
+  {
+    "id": 31,
+    "Name": "Cekin",
+    "Description": "MILD",
+    "AA": "6%-8%",
+    "Application": "Aroma",
+    "Substitutes": "Styrian Goldings | Brewers gold | Styrian Aurora"
+  },
+  {
+    "id": 32,
+    "Name": "Centennial",
+    "Description": "LEMON | FLORAL | ORANGE BLOSSOM | EARTHY",
+    "AA": "9.5%-11.5%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Chinook | Galena | Nugget | Zeus | Columbus"
+  },
+  {
+    "id": 33,
+    "Name": "Centennial, Hop Extract",
+    "Description": "LEMON | FLORAL | ORANGE BLOSSOM",
+    "AA": "48.80%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Chinook | Galena | Nugget | Zeus | Columbus"
+  },
+  {
+    "id": 34,
+    "Name": "Centennial, Hop Hash",
+    "Description": "LEMON | FLORAL | ORANGE BLOSSOM",
+    "AA": "32%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Chinook | Galena | Nugget | Zeus | Columbus"
+  },
+  {
+    "id": 35,
+    "Name": "Challenger",
+    "Description": "CEDAR | GREEN TEA | SWEET FRUIT",
+    "AA": "6.5%-9%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Perle, USA"
+  },
+  {
+    "id": 36,
+    "Name": "Chelan",
+    "Description": "MILD",
+    "AA": "12%-14.5%",
+    "Application": "Bittering",
+    "Substitutes": "Galena | Nugget"
+  },
+  {
+    "id": 37,
+    "Name": "Chinook",
+    "Description": "GRAPEFRUIT | SPICY | PINE",
+    "AA": "12%-14%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Galena | Eroica | Nugget | Bullion"
+  },
+  {
+    "id": 38,
+    "Name": "Chinook, Hop Extract",
+    "Description": "GRAPEFRUIT | SPICY | PINE",
+    "AA": "58.80%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Galena | Eroica | Nugget | Bullion"
+  },
+  {
+    "id": 39,
+    "Name": "Chinook, NZ",
+    "Description": "GRAPEFRUIT | SPICY | PINE",
+    "AA": "12%-14%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Galena | Eroica | Nugget | Bullion"
+  },
+  {
+    "id": 40,
+    "Name": "Citra",
+    "Description": "GRAPEFRUIT | MELON | LIME | GOOSEBERRY | PASSION FRUIT",
+    "AA": "10%-15%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Simcoe | Cascade | Centennial"
+  },
+  {
+    "id": 41,
+    "Name": "Citra, Cryo",
+    "Description": "GRAPEFRUIT | MELON | LIME | GOOSEBERRY | PASSION FRUIT",
+    "AA": "24%-26%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Simcoe | Cascade | Centennial"
+  },
+  {
+    "id": 42,
+    "Name": "Cluster",
+    "Description": "FLORAL | EARTHY | SWEET FRUIT",
+    "AA": "5.5%-9%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Eroica | Galena"
+  },
+  {
+    "id": 43,
+    "Name": "Columbia",
+    "Description": "EARTHY | FRUITY",
+    "AA": "6.8%-11.5%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Fuggle | Williamette"
+  },
+  {
+    "id": 44,
+    "Name": "Columbus",
+    "Description": "BLACK PEPPER | DANK�| CITRUS | EARTHY | SPICY",
+    "AA": "14%-16%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Zeus | Galena | Chinook | Nugget | Centennial | Millenium"
+  },
+  {
+    "id": 45,
+    "Name": "Columbus (Tomahawk, CTC), Hop Hash",
+    "Description": "BLACK PEPPER | DANK | CITRUS | EARTHY | SPICY",
+    "AA": "14%-18%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Zeus | Chinook | Northern Brewer | Nugget | Target | Warrior | Millenium | Bullion"
+  },
+  {
+    "id": 46,
+    "Name": "Comet",
+    "Description": "�WILD AMERICAN� | GRASS�| GRAPEFRUIT",
+    "AA": "9.4%-12.4%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Galena"
+  },
+  {
+    "id": 47,
+    "Name": "Crystal",
+    "Description": "WOODY | GREEN",
+    "AA": "2.8%-4.4%",
+    "Application": "Aroma",
+    "Substitutes": "Liberty | Mount Hood | Hallertau, GER | Ultra"
+  },
+  {
+    "id": 48,
+    "Name": "Dana",
+    "Description": "FLORAL | CITRUS",
+    "AA": "11%-16%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Bobek | Celeia"
+  },
+  {
+    "id": 49,
+    "Name": "Defender",
+    "Description": "AROMA",
+    "AA": "3.3%-6%",
+    "Application": "Aroma",
+    "Substitutes": "Density"
+  },
+  {
+    "id": 50,
+    "Name": "Delta",
+    "Description": "SPICY | MELON | CITRUS",
+    "AA": "5.5%-7%",
+    "Application": "Aroma�",
+    "Substitutes": "Cascade | Nelson Sauvin | Fuggle | Willamette"
+  },
+  {
+    "id": 51,
+    "Name": "Denali (Exp 06277)",
+    "Description": "PINEAPPLE | PINE | CITRUS",
+    "AA": "13%�15%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Nugget | Zueus"
+  },
+  {
+    "id": 52,
+    "Name": "Dr. Rudi",
+    "Description": "RESIN | PINE | LEMONGRASS",
+    "AA": "10%-12%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Green Bullet"
+  },
+  {
+    "id": 53,
+    "Name": "East Kent Goldings",
+    "Description": "LAVENDER | HONEY | LEMON | THYME�| ORANGE | GRAPEFRUIT",
+    "AA": "5%-6%",
+    "Application": "Aroma",
+    "Substitutes": "Golding, UK | Whitbread Golding | Progress"
+  },
+  {
+    "id": 54,
+    "Name": "Ekuanot (Equinox)",
+    "Description": "MELON | BERRY | LIME | APPLE�| PAPAYA | GREEN PEPPER�|�MANGO | MANDARIN ORANGE",
+    "AA": "14.5%-15.5%",
+    "Application": "Aroma",
+    "Substitutes": "Huell Melon | El Dorado"
+  },
+  {
+    "id": 55,
+    "Name": "El Dorado",
+    "Description": "CHERRY | APRICOT | PEAR | CITRUS�| WATERMELON | GRASS | WOOD | MINT",
+    "AA": "13%-17%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Galena | Ekuanot"
+  },
+  {
+    "id": 56,
+    "Name": "El Dorado, Hop Extract",
+    "Description": "CHERRY | APRICOT | PEAR | CITRUS | WATERMELON | GRASS | WOOD | MINT",
+    "AA": "49.80%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Galena | Ekuanot"
+  },
+  {
+    "id": 57,
+    "Name": "El Dorado, Hop Hash",
+    "Description": "CHERRY | APRICOT | PEAR | CITRUS | WATERMELON | GRASS | WOOD | MINT",
+    "AA": "25.70%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Galena | Ekuanot"
+  },
+  {
+    "id": 58,
+    "Name": "Ella",
+    "Description": "FLORAL | NOBLE | SPICY | STAR ANISE�|�GRAPEFRUIT",
+    "AA": "13.4%-19.2%",
+    "Application": "Aroma",
+    "Substitutes": "Cascade | Citra�"
+  },
+  {
+    "id": 59,
+    "Name": "Endeavour",
+    "Description": "BLACKCURRANT | LOGANBERRY | SPICY | GRAPEFRUIT | LIME",
+    "AA": "8%-10.5%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Brambling Cross | Pilgram�"
+  },
+  {
+    "id": 60,
+    "Name": "Enigma",
+    "Description": "PINOT GRIS | RASPBERRY | REDCURRANT | TROPICAL FRUIT",
+    "AA": "16.7%-19.4%",
+    "Application": "Aroma",
+    "Substitutes": "Nelson Sauvin | Huell Melon"
+  },
+  {
+    "id": 61,
+    "Name": "Epic",
+    "Description": "FRUITY | BERRY",
+    "AA": "3%-5%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Fuggle | Mandarina Bavaria"
+  },
+  {
+    "id": 62,
+    "Name": "Eroica",
+    "Description": "FRUIT",
+    "AA": "7.1%-14.9%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Bullion | Brewer�s Gold | Galena"
+  },
+  {
+    "id": 63,
+    "Name": "Eukanot�",
+    "Description": "MELON | BERRY | LIME | APPLE | PAPAYA | SPICE�",
+    "AA": "14.5%-15.5%�",
+    "Application": "Aroma",
+    "Substitutes": "Huell Melon | El Dorado�"
+  },
+  {
+    "id": 64,
+    "Name": "Eukanot�,� Cryo",
+    "Description": "MELON | BERRY | LIME | APPLE | PAPAYA | GREEN PEPPER | MANGO | MANDARIN ORANGE",
+    "AA": "25.50%",
+    "Application": "Aroma�",
+    "Substitutes": "Huell Melon | El Dorado"
+  },
+  {
+    "id": 65,
+    "Name": "Eureka",
+    "Description": "CITRUS | PEACH | PINE",
+    "AA": "18%-19%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Columbus | Apollo"
+  },
+  {
+    "id": 66,
+    "Name": "Falconer�s Flight",
+    "Description": "LEMON | GRAPEFRUIT",
+    "AA": "11%-12%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Falconers Flight 7C�s | Cascade | Columbus | Centennial"
+  },
+  {
+    "id": 67,
+    "Name": "Falconer�s Flight 7C�s Blend",
+    "Description": "FRUIT | CITRUS | SPICY | EARTH",
+    "AA": "9%-10%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Falconers Flight | Cascade | Columbus | Centennial"
+  },
+  {
+    "id": 68,
+    "Name": "First Gold",
+    "Description": "GERANIUM | MAGNOLIA | APRICOT | TANGERINE | ORANGE MARMALADE",
+    "AA": "5.6%-9.3%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Willamette | East Kent Golding |�Styrian Golding"
+  },
+  {
+    "id": 69,
+    "Name": "Flyer",
+    "Description": "SPICY | CITRUS | LIQUORICE",
+    "AA": "8.3%-14.5%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Willamette | Goldings�"
+  },
+  {
+    "id": 70,
+    "Name": "Fuggle, Organic",
+    "Description": "GREEN TEA | MINT | GRASS | FLORAL",
+    "AA": "3%-5.6%",
+    "Application": "Aroma�",
+    "Substitutes": "Fuggle, USA | Willamette | Styrian | Golding"
+  },
+  {
+    "id": 71,
+    "Name": "Fuggle, USA",
+    "Description": "MILD | WOOD | GRASS | MINT",
+    "AA": "4%-5.5%",
+    "Application": "Aroma",
+    "Substitutes": "Fuggle, UK | Willamette | Styrian | Golding | Tettnanger (GR)"
+  },
+  {
+    "id": 72,
+    "Name": "Fuggle",
+    "Description": "GREEN TEA | MINT | GRASS | FLORAL",
+    "AA": "3%-5.6%",
+    "Application": "Aroma�",
+    "Substitutes": "Fuggle, USA | Willamette | Styrian Golding | Tettnanger | Newport | Wakatu"
+  },
+  {
+    "id": 73,
+    "Name": "Galaxy",
+    "Description": "PASSIONFRUIT | PEACH | CLEAN CITRUS",
+    "AA": "11%-16%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Citra | Amarillo | Centennial"
+  },
+  {
+    "id": 74,
+    "Name": "Galena",
+    "Description": "PEAR | PINEAPPLE | LIME�| BLACKCURRANT | GRAPEFRUIT",
+    "AA": "12%-14%",
+    "Application": "Aroma",
+    "Substitutes": "Nugget | Columbus | Zeus"
+  },
+  {
+    "id": 75,
+    "Name": "Gargoyle",
+    "Description": "CITRUS | MANGO",
+    "AA": "7.50%",
+    "Application": "Aroma",
+    "Substitutes": "Cluster | Ivanhoe"
+  },
+  {
+    "id": 76,
+    "Name": "German Spalt Select",
+    "Description": "NOBLE | SPICY | FLORAL�| BERRY | CITRUS",
+    "AA": "2.5%-5.5%�",
+    "Application": "Aroma�",
+    "Substitutes": "Saaz"
+  },
+  {
+    "id": 77,
+    "Name": "German Tradition",
+    "Description": "EARTHY | NECTAR | GRASS",
+    "AA": "5%-7%",
+    "Application": "Aroma�",
+    "Substitutes": "Hallertau Mittelfruh | Liberty | Hersbrucker"
+  },
+  {
+    "id": 78,
+    "Name": "Glacier",
+    "Description": "PLUM | BLACKBERRY | WOOD",
+    "AA": "3.3%-9.7%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Willamette | Fuggle, USA | Tettnanger (GR)"
+  },
+  {
+    "id": 79,
+    "Name": "Goldings, NZ",
+    "Description": "EARTHY | FLORAL",
+    "AA": "4%-4.2%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "East Kent Goldings�"
+  },
+  {
+    "id": 80,
+    "Name": "Goldings, UK",
+    "Description": "SPICY | HONEY | EARTHY",
+    "AA": "4%-7%�",
+    "Application": "Aroma",
+    "Substitutes": "Fuggle | East Kent Golding |�Styrian Golding"
+  },
+  {
+    "id": 81,
+    "Name": "Goldings, USA",
+    "Description": "DELICATE | SWEET FLORAL",
+    "AA": "4%-6%�",
+    "Application": "Aroma�",
+    "Substitutes": "Fuggle | East Kent Golding | Styrian Golding"
+  },
+  {
+    "id": 82,
+    "Name": "Goldings, B.C.",
+    "Description": "EARTHY | SPICY",
+    "AA": "4%-7%�",
+    "Application": "Aroma�",
+    "Substitutes": "East Kent Golding | Golding, USA | Fuggle | Willamette"
+  },
+  {
+    "id": 83,
+    "Name": "Green Bullet",
+    "Description": "SPICY | DRIED FRUIT | FLORAL",
+    "AA": "11%-15%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Dr Rudi | Liberty | Hallertauer"
+  },
+  {
+    "id": 84,
+    "Name": "Hallertau. GER",
+    "Description": "FLOWERY | SPICY",
+    "AA": "3.5%-3.5%�",
+    "Application": "Aroma�",
+    "Substitutes": "Hallertauer Tradition | Hallertauer Mittelfr�h | Hallertau, NZ | Crystal | Liberty | Mount Hood�"
+  },
+  {
+    "id": 85,
+    "Name": "Hallertau, NZ",
+    "Description": "FLORAL | LIME�| CITRUS",
+    "AA": "7%-9%�",
+    "Application": "Aroma�",
+    "Substitutes": "Hallertauer Tradition | Hallertauer Mittelfr�h | Hallertau, GER�| Crystal | Liberty | Mount Hood�"
+  },
+  {
+    "id": 86,
+    "Name": "Hallertau, USA",
+    "Description": "NOBLE | SPICY | FLORAL",
+    "AA": "3.5%-5.5%�",
+    "Application": "Aroma�",
+    "Substitutes": "Mount Hood | Liberty | Crystal | Hallertauer Mittelfr�h | Hallertauer Tradition"
+  },
+  {
+    "id": 87,
+    "Name": "Hallertau Blanc",
+    "Description": "PASSION FRUIT | GRAPEFRUIT | PINEAPPLE | GRAPE | LEMONGRASS",
+    "AA": "9%-12%�",
+    "Application": "Aroma�",
+    "Substitutes": "Nelson Sauvin"
+  },
+  {
+    "id": 88,
+    "Name": "Hallertau Gold",
+    "Description": "NOBLE | SPICY",
+    "AA": "7%-10%�",
+    "Application": "Aroma",
+    "Substitutes": "Hallertauer Mittelfr�h | Tettnanger | East Kent Golding"
+  },
+  {
+    "id": 89,
+    "Name": "Hallertau Magnum",
+    "Description": "CLEAN | CITRUS",
+    "AA": "11%-16%",
+    "Application": "Bittering�",
+    "Substitutes": "Hallertauer Taurus | Columbus | Nugget"
+  },
+  {
+    "id": 90,
+    "Name": "Hallertau Taurus",
+    "Description": "BLACKCURRANT | PEPPER | ZESTY",
+    "AA": "12.3%-17.9%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Citra | Magnum, USA | Tradition"
+  },
+  {
+    "id": 91,
+    "Name": "Hallertau Tradition",
+    "Description": "GRASS | TEA | ORANGE | LAVENDER",
+    "AA": "4.6%-7%�",
+    "Application": "Aroma�",
+    "Substitutes": "Hallertau Mittelfr�h | Liberty"
+  },
+  {
+    "id": 92,
+    "Name": "Hallertauer�Mittelfr�h",
+    "Description": "GRASS | TEA | CITRUS",
+    "AA": "3.0%-5.5%�",
+    "Application": "Aroma�",
+    "Substitutes": "Liberty | Hallertau, USA"
+  },
+  {
+    "id": 93,
+    "Name": "Helga (Southern Hallertau)",
+    "Description": "PLEASANT | NOBLE",
+    "AA": "5.4%-7.3%�",
+    "Application": "Aroma�",
+    "Substitutes": "Mount Hood |� Hallertauer Mittelfr�h"
+  },
+  {
+    "id": 94,
+    "Name": "Herald",
+    "Description": "ORANGE | GRAPEFRUIT",
+    "AA": "11.9%-12.8%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Pioneer"
+  },
+  {
+    "id": 95,
+    "Name": "Herkules",
+    "Description": "ROBUST | MELON",
+    "AA": "12%-17%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Chinook"
+  },
+  {
+    "id": 96,
+    "Name": "Hersbrucker",
+    "Description": "FRUIT | TOBACCO | ORANGE",
+    "AA": "2%-5%�",
+    "Application": "Aroma�",
+    "Substitutes": "Hallertauer Tradition | Spalter Select | Mount Hood | Strisselspalter | Hallertau | Liberty"
+  },
+  {
+    "id": 97,
+    "Name": "Horizon",
+    "Description": "FLORAL BOUQUET | SPICY�| CITRUS",
+    "AA": "8.8%-16.5%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Hallertauer Magnum"
+  },
+  {
+    "id": 98,
+    "Name": "Huell Melon",
+    "Description": "HONEYDEW MELON | STRAWBERRY | TROPICAL FRUIT | ORANGE | VANILLA",
+    "AA": "6.9%-7.5%�",
+    "Application": "Aroma�",
+    "Substitutes": "Ekuanot | Cascade"
+  },
+  {
+    "id": 99,
+    "Name": "Idaho #7",
+    "Description": "PINEAPPLE | PEACH | PINE | RESIN | MANGO | BLACK TEA",
+    "AA": "13%-15%�",
+    "Application": "Aroma�",
+    "Substitutes": "Mosaic | Citra"
+  },
+  {
+    "id": 100,
+    "Name": "Idaho #7, Hop Hash",
+    "Description": "PINEAPPLE | PEACH | PINE | RESIN | MANGO | BLACK TEA",
+    "AA": "31.40%",
+    "Application": "Aroma�",
+    "Substitutes": "Mosaic | Citra"
+  },
+  {
+    "id": 101,
+    "Name": "Ivanhoe",
+    "Description": "CITRUS | PINE",
+    "AA": "7.3%-8%�",
+    "Application": "Aroma",
+    "Substitutes": "Galena | Cluster | Northern Brewer"
+  },
+  {
+    "id": 102,
+    "Name": "Jarrylo",
+    "Description": "BANANA | GRASS | PEAR | ORANGE | SPICY | FRUIT",
+    "AA": "15%-17%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Taurus | Calypso | Huell Melon"
+  },
+  {
+    "id": 103,
+    "Name": "Jester",
+    "Description": "TROPICAL | GRAPEFRUIT | LYCHEE",
+    "AA": "7%-9%",
+    "Application": "Aroma�",
+    "Substitutes": "Cascade | Challenger"
+  },
+  {
+    "id": 104,
+    "Name": "Junga",
+    "Description": "BLACKCURRANT | GRAPEFRUIT | SPICY",
+    "AA": "10.0%-13.0%",
+    "Application": "Dual Purpose�",
+    "Substitutes": "Nugget | Target"
+  },
+  {
+    "id": 105,
+    "Name": "Kazbek",
+    "Description": "SPICY | LEMON",
+    "AA": "5%-8%",
+    "Application": "Aroma�",
+    "Substitutes": "Saaz | Premiant"
+  },
+  {
+    "id": 106,
+    "Name": "Kirin II",
+    "Description": "AROMA",
+    "AA": "8%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Saaz | Loral�"
+  },
+  {
+    "id": 107,
+    "Name": "Kohatu",
+    "Description": "TROPICAL FRUIT",
+    "AA": "6.8%�",
+    "Application": "Aroma",
+    "Substitutes": "Citra | Motueka"
+  },
+  {
+    "id": 108,
+    "Name": "Legacy",
+    "Description": "BLACKBERRY | BLACKCURRANT | ORANGE",
+    "AA": "7.8%-8.4%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Cluster | Galena | Northern Brewer"
+  },
+  {
+    "id": 109,
+    "Name": "Lemondrop",
+    "Description": "LEMON | CITRUS",
+    "AA": "5%-7%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Cascade | Centennial | Mandarina Bavaria"
+  },
+  {
+    "id": 110,
+    "Name": "Liberty",
+    "Description": "NOBLE | FLORAL | HERBAL�| SPICY | DELICATE | LEMON",
+    "AA": "3%-6%�",
+    "Application": "Aroma�",
+    "Substitutes": "Hallertau | Mount Hood | Tradition | Strisselspalter�"
+  },
+  {
+    "id": 111,
+    "Name": "Loral",
+    "Description": "FLORAL | PEPPER | LEMON | CITRUS | DARK FRUIT",
+    "AA": "10%-12%�",
+    "Application": "Aroma",
+    "Substitutes": "Strisselspalt | Tardif De Bourgogne | Tettnag | Nuget"
+  },
+  {
+    "id": 112,
+    "Name": "Loral, Cryo",
+    "Description": "FLORAL | PEPPER | LEMON | CITRUS | DARK FRUIT",
+    "AA": "20%-24%",
+    "Application": "Aroma�",
+    "Substitutes": "Strisselspalt | Tardif De Bourgogne | Tettnag | Nuget"
+  },
+  {
+    "id": 113,
+    "Name": "Lublin (Lubelski)",
+    "Description": "NOBLE",
+    "AA": "3%-5%�",
+    "Application": "Aroma�",
+    "Substitutes": "Saaz | Sterling"
+  },
+  {
+    "id": 114,
+    "Name": "Magnum, GER",
+    "Description": "APPLE | PEPPER | SUBTLE CITRUS�| CLEAN BITTERING",
+    "AA": "12%-14%�",
+    "Application": "Bittering",
+    "Substitutes": "Hallertauer Taurus | Columbus | Nugget"
+  },
+  {
+    "id": 115,
+    "Name": "Magnum, USA",
+    "Description": "LIGHT CITRUS�| CLEAN BITTERING",
+    "AA": "10%-14%�",
+    "Application": "Bittering�",
+    "Substitutes": "Magnum (GER) | Horizon |"
+  },
+  {
+    "id": 116,
+    "Name": "Mandarina Bavaria",
+    "Description": "TANGERINE | GRAPEFRUIT | LIME",
+    "AA": "8.5%-10.5%�",
+    "Application": "Aroma�",
+    "Substitutes": "Columbus | Nugget"
+  },
+  {
+    "id": 117,
+    "Name": "Marynka",
+    "Description": "EARTHY | HERBAL",
+    "AA": "9%-12%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Tettnanger"
+  },
+  {
+    "id": 118,
+    "Name": "Mathon White",
+    "Description": "SPICY | HONEY | EARTHY",
+    "AA": "4.4%-6.7%�",
+    "Application": "Aroma",
+    "Substitutes": "Bramling | East Kent Golding | Progress | Whitbread Golding"
+  },
+  {
+    "id": 119,
+    "Name": "Medusa",
+    "Description": "CITRUS | GUAVA | MELON | APRICOT",
+    "AA": "3.5%-5%�",
+    "Application": "Aroma�",
+    "Substitutes": "Zappa"
+  },
+  {
+    "id": 120,
+    "Name": "Melba",
+    "Description": "CLEAN | SPICY | PASSIONFRUIT | GRAPEFRUIT�| CITRUS",
+    "AA": "7%-10%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Galaxy"
+  },
+  {
+    "id": 121,
+    "Name": "Meridian",
+    "Description": "TROPICAL | BERRY | CITRUS",
+    "AA": "5.%-6.5%",
+    "Application": "Aroma�",
+    "Substitutes": "Citra | Glacier | Centennial"
+  },
+  {
+    "id": 122,
+    "Name": "Merkur",
+    "Description": "SUGAR | PINEAPPLE | MINT",
+    "AA": "12%-16.2%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Magnum (GR)"
+  },
+  {
+    "id": 123,
+    "Name": "Millennium",
+    "Description": "RESIN | HERBAL | FLORAL�| PEAR",
+    "AA": "14.5%-16.5%�",
+    "Application": "Bittering�",
+    "Substitutes": "Columbus | Nugget | Summit"
+  },
+  {
+    "id": 124,
+    "Name": "Mosaic",
+    "Description": "BLUEBERRY | TANGERINE�| PAPAYA | ROSE | BLOSSOM�| BUBBLE GUM",
+    "AA": "11.5%-13.5%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Simcoe | Citra | Nugget"
+  },
+  {
+    "id": 125,
+    "Name": "Mosaic, Cryo",
+    "Description": "BLUEBERRY | TANGERINE | PAPAYA | ROSE | BLOSSOM | BUBBLE GUM",
+    "AA": "20%-24%�",
+    "Application": "Dual Purpose�",
+    "Substitutes": "Simcoe | Citra | Nugget"
+  },
+  {
+    "id": 126,
+    "Name": "Motueka",
+    "Description": "LIME | LEMON | TROPICAL FRUIT",
+    "AA": "6.5%-8.5%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Saaz | Sterling | liberty�"
+  },
+  {
+    "id": 127,
+    "Name": "Moutere (Brooklyn)",
+    "Description": "CITRUS | FRUIT | PINE",
+    "AA": "15.5%-18%",
+    "Application": "Dual Purpose�",
+    "Substitutes": "Citra | Simcoe"
+  },
+  {
+    "id": 128,
+    "Name": "Mt. Hood",
+    "Description": "PUNGENT�| NOBLE",
+    "AA": "4%-8%�",
+    "Application": "Aroma",
+    "Substitutes": "Crystal | Strisselspalter | Hersbrucker"
+  },
+  {
+    "id": 129,
+    "Name": "Mt. Rainier",
+    "Description": "NOBLE | LICORICE | FLORAL",
+    "AA": "5%-8.1%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Hallertauer | Fuggle"
+  },
+  {
+    "id": 130,
+    "Name": "MultiHead",
+    "Description": "FLORAL | SWEET FRUIT | CITRUS",
+    "AA": "3.5%-5.5%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Medusa"
+  },
+  {
+    "id": 131,
+    "Name": "Nelson Sauvin",
+    "Description": "WHITE WINE | GOOSEBERRY | GRAPE�|�SAUVIGNON BLANC",
+    "AA": "12%-13%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Pacific Jade | Pacifica"
+  },
+  {
+    "id": 132,
+    "Name": "Neo1",
+    "Description": "LEMON | CITRUS",
+    "AA": "7%-9%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "lemon drop"
+  },
+  {
+    "id": 133,
+    "Name": "Newport",
+    "Description": "WINE | BALSAMIC",
+    "AA": "13.5%-17%�",
+    "Application": "Bittering�",
+    "Substitutes": "Galena"
+  },
+  {
+    "id": 134,
+    "Name": "Northdown",
+    "Description": "FLORAL | PINE | CEDAR | BERRY",
+    "AA": "7%-10%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Challenger"
+  },
+  {
+    "id": 135,
+    "Name": "Northern Brewer, GER",
+    "Description": "MINT | PINE | GRASS",
+    "AA": "7%-10%�",
+    "Application": "Bittering",
+    "Substitutes": "Perle | Northern Brewer, UK | Northern Brewer, USA | Chinook | Galena | Magnum�"
+  },
+  {
+    "id": 136,
+    "Name": "Northern Brewer, UK",
+    "Description": "EVERGREEN | WOOD | MINT",
+    "AA": "9.5%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Northern Brewer, USA | Northern Brewer, GER"
+  },
+  {
+    "id": 137,
+    "Name": "Northern Brewer, USA",
+    "Description": "MINT | PINE | GRASS",
+    "AA": "8%-10%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Northern Brewer, GER | Northern Brewer, UK | Chinook"
+  },
+  {
+    "id": 138,
+    "Name": "Nugget",
+    "Description": "GREEN | WOOD | GINGER",
+    "AA": "9.5%-14%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Galena | Columbus | Magnum"
+  },
+  {
+    "id": 139,
+    "Name": "Olympic",
+    "Description": "CITRUS | SPICY",
+    "AA": "10.6%-13.8%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Galena | Nugget"
+  },
+  {
+    "id": 140,
+    "Name": "Opal",
+    "Description": "SWEET SPICY | PEPPER | CLEAN CITRUS | ANISE",
+    "AA": "13%-14%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "East Kent Golding | Tettnang | Syrian Goldings"
+  },
+  {
+    "id": 141,
+    "Name": "Orion",
+    "Description": "SPICY",
+    "AA": "8%-9%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Perle"
+  },
+  {
+    "id": 142,
+    "Name": "Outeniqua",
+    "Description": "MILD",
+    "AA": "12%-13.5%�",
+    "Application": "Bittering�",
+    "Substitutes": "Southern Star"
+  },
+  {
+    "id": 143,
+    "Name": "Pacific Crest",
+    "Description": "FLORAL | EARTHY | GRASS | SPICY | HERBAL",
+    "AA": "3.9%�",
+    "Application": "Aroma�",
+    "Substitutes": "Saaz | Fuggle | Tettnang"
+  },
+  {
+    "id": 144,
+    "Name": "Pacific Gem",
+    "Description": "BLACKBERRY | OAK",
+    "AA": "13%-16%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Galena | Pacific Jade"
+  },
+  {
+    "id": 145,
+    "Name": "Pacific Jade",
+    "Description": "FRESH CITRUS | BLACK PEPPER",
+    "AA": "12%-14%�",
+    "Application": "Aroma�",
+    "Substitutes": "Galena | Pacific gem"
+  },
+  {
+    "id": 146,
+    "Name": "Pacific Sunrise",
+    "Description": "PINE",
+    "AA": "12.5%-14.5%�",
+    "Application": "Bittering�",
+    "Substitutes": "Pacific Gem"
+  },
+  {
+    "id": 147,
+    "Name": "Pacifica",
+    "Description": "ORANGE ZEST | MARMALADE�| FLORAL",
+    "AA": "5%-6%�",
+    "Application": "Aroma�",
+    "Substitutes": "Hallertau Mittelfr�h | Perle"
+  },
+  {
+    "id": 148,
+    "Name": "Pahto",
+    "Description": "HERBAL | EARTHY | FLORAL",
+    "AA": "17%-20%�",
+    "Application": "Bittering�",
+    "Substitutes": "East Kent Goldings�"
+  },
+  {
+    "id": 149,
+    "Name": "Palisade�",
+    "Description": "APRICOT | GRASS | CLEAN�|�FLORAL",
+    "AA": "5.5%-9.5%�",
+    "Application": "Aroma",
+    "Substitutes": "Willamette"
+  },
+  {
+    "id": 150,
+    "Name": "Palisade, Cryo",
+    "Description": "APRICOT | GRASS | CLEAN | FLORAL",
+    "AA": "13%-15%�",
+    "Application": "Aroma�",
+    "Substitutes": "Willamette"
+  },
+  {
+    "id": 151,
+    "Name": "Pekko",
+    "Description": "CLEAN | FLORAL | MELON | PINEAPPLE | PEAR | SAAZ-LIKE | CUCUMBER | MINT | HERBAL | SAGE | LEMON",
+    "AA": "13%-16%�",
+    "Application": "Dual Purpose�",
+    "Substitutes": "Heull Melon | El Dorado | Saaz"
+  },
+  {
+    "id": 152,
+    "Name": "Perle",
+    "Description": "MINT | TEA | PEPPER",
+    "AA": "8%-9%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Northern Brewer, USA | Northern Brewer, GER | Magnum"
+  },
+  {
+    "id": 153,
+    "Name": "Perle, USA",
+    "Description": "SPICY | FLORAL",
+    "AA": "6%-10%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Northern Brewer, USA | Northern Brewer, UK | Northern Brewer, GER | Magnum"
+  },
+  {
+    "id": 154,
+    "Name": "Phoenix",
+    "Description": "SPICY | FLORAL | CHOCOLATE",
+    "AA": "8.5%-13.5%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Northdown | Challenger"
+  },
+  {
+    "id": 155,
+    "Name": "Pilgrim",
+    "Description": "LEMON | GRAPEFRUIT | PEAR | BERRY",
+    "AA": "9%-13%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Target | Challenger�"
+  },
+  {
+    "id": 156,
+    "Name": "Pilot",
+    "Description": "MARMALADE | LEMON | SPICY",
+    "AA": "8%-11.5%�",
+    "Application": "Bittering�",
+    "Substitutes": "Galena"
+  },
+  {
+    "id": 157,
+    "Name": "Pioneer",
+    "Description": "LEMON | GRAPEFRUIT | CEDAR | HERBAL",
+    "AA": "8%-10%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "East Kent Golding"
+  },
+  {
+    "id": 158,
+    "Name": "Polaris",
+    "Description": "MINT | PINEAPPLE | MENTHOL",
+    "AA": "18%-23%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Northern Brewer, GER"
+  },
+  {
+    "id": 159,
+    "Name": "Precoce de Bourgogne",
+    "Description": "MILD",
+    "AA": "3.4%�",
+    "Application": "Aroma",
+    "Substitutes": "Tardif de Bourgogne"
+  },
+  {
+    "id": 160,
+    "Name": "Premiant",
+    "Description": "PLEASANT | MILD SPICE",
+    "AA": "8%-12.5%�",
+    "Application": "Aroma�",
+    "Substitutes": "Saaz | Kazbek"
+  },
+  {
+    "id": 161,
+    "Name": "Pride of Ringwood",
+    "Description": "SPICY | FRUITY",
+    "AA": "7%-11%�",
+    "Application": "Bittering�",
+    "Substitutes": "Galena | Cluster | Centennial"
+  },
+  {
+    "id": 162,
+    "Name": "Progress",
+    "Description": "GRASS | SWEET | MINT | HONEY�|�BLACKCURRANT",
+    "AA": "6%-7.5%",
+    "Application": "Aroma",
+    "Substitutes": "Fuggle, UK | East Kent Goldings"
+  },
+  {
+    "id": 163,
+    "Name": "Rakau",
+    "Description": "STONE FRUIT | FIG | APRICOT | RESIN�| PINE",
+    "AA": "5.8%-10.9%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Summit | Amarillo"
+  },
+  {
+    "id": 164,
+    "Name": "Relax",
+    "Description": "HIBISCUS | HONEYDEW | MELON",
+    "AA": "0.25%�",
+    "Application": "Aroma�",
+    "Substitutes": "Heull Melon�"
+  },
+  {
+    "id": 165,
+    "Name": "Riwaka",
+    "Description": "GRAPEFRUIT | CITRUS",
+    "AA": "4.5%-6.5%�",
+    "Application": "Aroma�",
+    "Substitutes": "Saaz"
+  },
+  {
+    "id": 166,
+    "Name": "Rubin",
+    "Description": "EARTHY | SPICY",
+    "AA": "10%-14%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Saaz | Strisselspalt"
+  },
+  {
+    "id": 167,
+    "Name": "Saaz, Czech",
+    "Description": "PLEASANT | MILD�| HERBAL�| NOBLE",
+    "AA": "2.5%-4.5%�",
+    "Application": "Aroma�",
+    "Substitutes": "Premiant | Kazbek | Sterling | Lubin | Saaz, USA"
+  },
+  {
+    "id": 168,
+    "Name": "Saaz, U.S.A",
+    "Description": "EARTHY | SPICY�| HERBAL",
+    "AA": "3%-4.5%�",
+    "Application": "Aroma�",
+    "Substitutes": "Saaz"
+  },
+  {
+    "id": 169,
+    "Name": "Santiam",
+    "Description": "BLACK PEPPER | SPICY | FLORAL�| HERBAL",
+    "AA": "5%-8%",
+    "Application": "Aroma�",
+    "Substitutes": "Spalt | Tettnang"
+  },
+  {
+    "id": 170,
+    "Name": "Saphir",
+    "Description": "SPICY | FLORAL | SWEET CITRUS",
+    "AA": "2%-4.5%�",
+    "Application": "Aroma�",
+    "Substitutes": "Hallertau Mittelfr�h"
+  },
+  {
+    "id": 171,
+    "Name": "Savinjski Golding",
+    "Description": "NOBLE",
+    "AA": "2.8%-6%�",
+    "Application": "Aroma�",
+    "Substitutes": "Saaz | Tettnang"
+  },
+  {
+    "id": 172,
+    "Name": "Simcoe�",
+    "Description": "PASSION FRUIT | BERRY| PINE | EARTH | CITRUS�| BUBBLE GUM",
+    "AA": "12.0%-14.0%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Summit | Citra | Mosaic"
+  },
+  {
+    "id": 173,
+    "Name": "Simcoe, Cryo",
+    "Description": "PASSION FRUIT | BERRY | PINE | EARTH | CITRUS | BUBBLE GUM",
+    "AA": "20%-24%�",
+    "Application": "Aroma�",
+    "Substitutes": "Summit | Citra | Mosaic"
+  },
+  {
+    "id": 174,
+    "Name": "Sladek",
+    "Description": "PEACH | GRAPEFRUIT | PASSION FRUIT",
+    "AA": "4.5%-8%�",
+    "Application": "Aroma�",
+    "Substitutes": "Saaz"
+  },
+  {
+    "id": 175,
+    "Name": "Smaragd",
+    "Description": "ANISE | TOBACCO | CLOVE | EARTHY�",
+    "AA": "4%-6%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Hallertau Gold"
+  },
+  {
+    "id": 176,
+    "Name": "Sonnet Golding",
+    "Description": "EARTHY | GRASS | OAK | HONEY",
+    "AA": "2.6%-6%�",
+    "Application": "Aroma�",
+    "Substitutes": "Saaz | East Kent Golding | Crystal | Strisselspalt | Hersbrucker"
+  },
+  {
+    "id": 177,
+    "Name": "Sorachi Ace",
+    "Description": "LEMON | ORANGE | DILL",
+    "AA": "11.5%-16%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Liberty | Lemondrop"
+  },
+  {
+    "id": 178,
+    "Name": "Southern Brewer",
+    "Description": "BITTER | AROMA",
+    "AA": "5.6%-12%�",
+    "Application": "Bittering�",
+    "Substitutes": "Southern Promise�"
+  },
+  {
+    "id": 179,
+    "Name": "Southern Cross",
+    "Description": "LEMON PEEL | LIME | TROPICAL FRUIT | PINE",
+    "AA": "13%-14%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Simcoe"
+  },
+  {
+    "id": 180,
+    "Name": "Southern Dawn",
+    "Description": "SPICY | LEMONGRASS | CHAMOMILE TEA",
+    "AA": "10%-12%�",
+    "Application": "Dual Purpose�",
+    "Substitutes": "Southern Brewer | Southern Promis�"
+  },
+  {
+    "id": 181,
+    "Name": "Southern Promise",
+    "Description": "EARTHY | WOODY | SMOOTH",
+    "AA": "9.5%-11.5%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Southern Brewer | Southern Promis�"
+  },
+  {
+    "id": 182,
+    "Name": "Southern Star",
+    "Description": "EARTHY | SPICY",
+    "AA": "12%-14%�",
+    "Application": "Bittering�",
+    "Substitutes": "Outeniqua"
+  },
+  {
+    "id": 183,
+    "Name": "Sovereign",
+    "Description": "FLORAL | GRASS | HERBAL | MINT | PEAR�",
+    "AA": "4.5%-6.5%�",
+    "Application": "Bittering�",
+    "Substitutes": "Fuggle"
+  },
+  {
+    "id": 184,
+    "Name": "Spalt",
+    "Description": "NOBLE�| EARTHY | SPICY",
+    "AA": "2.5%-5.7%�",
+    "Application": "Aroma�",
+    "Substitutes": "Saaz | Tettnang�| Santiam | Liberty | Hallertau"
+  },
+  {
+    "id": 185,
+    "Name": "Spalt Spalter",
+    "Description": "NOBLE�| EARTHY | SPICY",
+    "AA": "2.5%-5.7%�",
+    "Application": "Aroma�",
+    "Substitutes": "Saaz | Tettnanger | Santiam | Liberty | Hallertau"
+  },
+  {
+    "id": 186,
+    "Name": "Spalter Select",
+    "Description": "NOBLE | AROMA",
+    "AA": "3%-6.5%�",
+    "Application": "Aroma�",
+    "Substitutes": "Saaz | Tettnanger | Spalt | Hersbrucker | Perle | Hallertau Tradition"
+  },
+  {
+    "id": 187,
+    "Name": "Sterling, USA",
+    "Description": "NOBLE | HERBAL | SPICY�|�FLORAL",
+    "AA": "4.5%-9%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Saaz | Mt Hood"
+  },
+  {
+    "id": 188,
+    "Name": "Sticklebract",
+    "Description": "PINE | CITRUS",
+    "AA": "13%-14.2%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Northern Brewer, GER"
+  },
+  {
+    "id": 189,
+    "Name": "Strisselspalt",
+    "Description": "HERBAL | GRASS | SPICY | GRAPEFRUIT�|�FLORAL",
+    "AA": "1.8%-5.7%�",
+    "Application": "Aroma�",
+    "Substitutes": "Mount Hood | Crystal | Hersbrucker"
+  },
+  {
+    "id": 190,
+    "Name": "Styrian Aurora",
+    "Description": "SPICY",
+    "AA": "7.2%-12.6%�",
+    "Application": "Dual Purpose�",
+    "Substitutes": "Styrian Golding | Northern Brewer"
+  },
+  {
+    "id": 191,
+    "Name": "Styrian Bobek",
+    "Description": "NOBLE | PINE",
+    "AA": "3.5-9.3%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Fuggle | Willamette | Styrian Golding"
+  },
+  {
+    "id": 192,
+    "Name": "Styrian Celeia",
+    "Description": "NOBLE | FLORAL",
+    "AA": "3%-6%�",
+    "Application": "Dual Purpose�",
+    "Substitutes": "Saaz | Bobek | Styrian Golding"
+  },
+  {
+    "id": 193,
+    "Name": "Styrian Goldings, NZ",
+    "Description": "MILD�",
+    "AA": "4.5%-7.5%",
+    "Application": "Aroma",
+    "Substitutes": "Fuggle, USA"
+  },
+  {
+    "id": 194,
+    "Name": "Summer",
+    "Description": "APRICOT | MELON | PEACH�| GRASS",
+    "AA": "5.6%-6.4%�",
+    "Application": "Aroma�",
+    "Substitutes": "Belma | Palisade"
+  },
+  {
+    "id": 195,
+    "Name": "Summit�",
+    "Description": "PEPPER | INCENSE | ANISE�| ORANGE | PINK GRAPEFRUIT�|�TANGERINE",
+    "AA": "16%-18%�",
+    "Application": "Bittering�",
+    "Substitutes": "Columbus | Simcoe | Millennium | Warrior"
+  },
+  {
+    "id": 196,
+    "Name": "Summit, Hop Extract",
+    "Description": "PEPPER | INCENSE | ANISE | ORANGE | PINK GRAPEFRUIT |TANGERINE",
+    "AA": "56.2%�",
+    "Application": "Bittering�",
+    "Substitutes": "Columbus | Simcoe | Millennium | Warrior"
+  },
+  {
+    "id": 197,
+    "Name": "Sun",
+    "Description": "HERBACEOUS",
+    "AA": "12%-16%�",
+    "Application": "Bittering�",
+    "Substitutes": "Magnum | Galena | Zeus"
+  },
+  {
+    "id": 198,
+    "Name": "Super Galena",
+    "Description": "FRUITY | AROMA",
+    "AA": "13%-16%�",
+    "Application": "Bittering",
+    "Substitutes": "Nugget | Columbus | Zeus | Chinook | Pride of Ringwood | Eroica | Newport | Cluster | Brewers Gold"
+  },
+  {
+    "id": 199,
+    "Name": "Super Pride",
+    "Description": "RESIN | FRUIT",
+    "AA": "13.5%-15%�",
+    "Application": "Bittering�",
+    "Substitutes": "Pride of Ringwood"
+  },
+  {
+    "id": 200,
+    "Name": "Sussex",
+    "Description": "EARTHY | GRASS | MINT | CITRUS | VANILLA",
+    "AA": "4.3%-5.8%�",
+    "Application": "Aroma�",
+    "Substitutes": "Progress | Whitbread Golding | Fuggle"
+  },
+  {
+    "id": 201,
+    "Name": "Sybilla",
+    "Description": "FLOWERY | NOBLE | SPICY",
+    "AA": "6%-8%�",
+    "Application": "Dual Purpose�",
+    "Substitutes": "Bobek | Lubelski | Saaz | Fuggle"
+  },
+  {
+    "id": 202,
+    "Name": "Sylva",
+    "Description": "FLORAL | HERBAL | NOBLE",
+    "AA": "5.6%-7.3%�",
+    "Application": "Aroma�",
+    "Substitutes": "Hallertau Mittelfr�h | Helga | Saaz"
+  },
+  {
+    "id": 203,
+    "Name": "Tahoma",
+    "Description": "LEMON | GRAPEFRUIT | CEDAR | PINE | GREEN MELON | FLORAL | PEPPER",
+    "AA": "7.2%-8.2%�",
+    "Application": "Aroma�",
+    "Substitutes": "Mandarina Bavaria | Lemondrop"
+  },
+  {
+    "id": 204,
+    "Name": "Taiheke",
+    "Description": "GRAPEFRUIT | LIME",
+    "AA": "6%-8%",
+    "Application": "Dual Purpose�",
+    "Substitutes": "Hallertau | Goldings"
+  },
+  {
+    "id": 205,
+    "Name": "Tardif de Bourgogne",
+    "Description": "MILD",
+    "AA": "7.2%-8.2%�",
+    "Application": "Aroma�",
+    "Substitutes": "Precoce de Bourgogne"
+  },
+  {
+    "id": 206,
+    "Name": "Target",
+    "Description": "SAGE | PEPPER | CITRUS MARMALADE TANGERINE",
+    "AA": "8%-12.5%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Willamette | Fuggle"
+  },
+  {
+    "id": 207,
+    "Name": "Teamaker",
+    "Description": "TEA | AROMA",
+    "AA": "0.6%-1.8%�",
+    "Application": "Aroma",
+    "Substitutes": "Crystal | Fuggle�"
+  },
+  {
+    "id": 208,
+    "Name": "Tettnang",
+    "Description": "SPICY | PEPPER | BLACK TEA",
+    "AA": "3%-5.8%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Spalt | Hersbrucker | Saaz"
+  },
+  {
+    "id": 209,
+    "Name": "Tettnang, USA",
+    "Description": "NOBLE",
+    "AA": "4%-5%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Fuggle | Santiam | Spalt"
+  },
+  {
+    "id": 210,
+    "Name": "Tillicum",
+    "Description": "STONE FRUIT | CITRUS",
+    "AA": "13.5%-15.5.%�",
+    "Application": "Bittering�",
+    "Substitutes": "Galena | Chelan"
+  },
+  {
+    "id": 211,
+    "Name": "Tomahawk",
+    "Description": "PUNGENT | BLACK PEPPER | LICORICE | CURRY",
+    "AA": "14%-18%�",
+    "Application": "Dual Purpose�",
+    "Substitutes": "Columbus | Zeus"
+  },
+  {
+    "id": 212,
+    "Name": "Topaz",
+    "Description": "RESIN | GRASS | LYCHEE",
+    "AA": "13.7%-17.7%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Summit | Apollo"
+  },
+  {
+    "id": 213,
+    "Name": "Triple Pearl",
+    "Description": "MELON | ORANGE | RESIN | SPICY | PEPPER",
+    "AA": "9%-11%�",
+    "Application": "Dual Purpose�",
+    "Substitutes": "Mandarina Bavaria | Huell Melon"
+  },
+  {
+    "id": 214,
+    "Name": "Triskel",
+    "Description": "FLORAL | HERBAL | CITRUS | SPICY",
+    "AA": "8%-9%�",
+    "Application": "Aroma�",
+    "Substitutes": "Strisselspalt | Ahtanum | Centennial | Chinook | Simcoe"
+  },
+  {
+    "id": 215,
+    "Name": "Ultra",
+    "Description": "MILD | FLORAL BOUQUET",
+    "AA": "3%-5%�",
+    "Application": "Aroma�",
+    "Substitutes": "Tettnanger, GER | Saaz"
+  },
+  {
+    "id": 216,
+    "Name": "Vanguard",
+    "Description": "WOOD",
+    "AA": "4.40%-6%�",
+    "Application": "Aroma�",
+    "Substitutes": "Liberty | Mount Hood"
+  },
+  {
+    "id": 217,
+    "Name": "Vic Secret",
+    "Description": "PINE | EARTH | PASSIONFRUIT | PINEAPPLE",
+    "AA": "14%-17%",
+    "Application": "Dual Purpose",
+    "Substitutes": "Galaxy"
+  },
+  {
+    "id": 218,
+    "Name": "Viking",
+    "Description": "PLEASANTLY HOPPY",
+    "AA": "8%-10%�",
+    "Application": "Aroma�",
+    "Substitutes": "Saxon"
+  },
+  {
+    "id": 219,
+    "Name": "Vital",
+    "Description": "SPICY",
+    "AA": "14%-17%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Chinook"
+  },
+  {
+    "id": 220,
+    "Name": "Vojvodina",
+    "Description": "NOBLE",
+    "AA": "6.1%-10.5%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Northern Brewer | Goldings"
+  },
+  {
+    "id": 221,
+    "Name": "Wai-iti",
+    "Description": "PEACH | APRICOT | SPICY | LIME | TROPICAL FRUIT",
+    "AA": "2.5%-3.5%�",
+    "Application": "Aroma�",
+    "Substitutes": "Kahatu"
+  },
+  {
+    "id": 222,
+    "Name": "Waimea",
+    "Description": "CITRUS | PINE | HERBAL",
+    "AA": "16%-19%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Pacific Jade | Pacific gem | Columbus"
+  },
+  {
+    "id": 223,
+    "Name": "Wakatu",
+    "Description": "LIME ZEST | FLORAL�",
+    "AA": "6.5%-8.5%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Hallertauer Mittelfr�h"
+  },
+  {
+    "id": 224,
+    "Name": "Warrior�",
+    "Description": "MILD | RESINOUS�| CITRUS�| PINE",
+    "AA": "14.5%-18%�",
+    "Application": "Bittering�",
+    "Substitutes": "Nugget"
+  },
+  {
+    "id": 225,
+    "Name": "Whitbread Golding (WGV)",
+    "Description": "FRESH EARTH | FLORAL | SWEET FRUIT",
+    "AA": "5%-7.5%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "East Kent Goldings | Progress"
+  },
+  {
+    "id": 226,
+    "Name": "Willamette",
+    "Description": "FLORAL | INCENSE�|�ELDERBERRY",
+    "AA": "4%-6%�",
+    "Application": "Aroma�",
+    "Substitutes": "Fuggle | Styrian Golding | Tettnanger | Glacier | Styrian Golding"
+  },
+  {
+    "id": 227,
+    "Name": "Willamette, NZ",
+    "Description": "MILD | SPICY",
+    "AA": "4%-6%�",
+    "Application": "Aroma",
+    "Substitutes": "Fuggle | Styrian Golding | Tettnanger, USA | Glacier | Styrian Golding"
+  },
+  {
+    "id": 228,
+    "Name": "Wye Challenger",
+    "Description": "SPICY | CEDAR | GREEN TEA",
+    "AA": "5%-9%�",
+    "Application": "Dual� Purpose�",
+    "Substitutes": "Perle, USA | Northern Brewer | Admiral"
+  },
+  {
+    "id": 229,
+    "Name": "Yakima Gold",
+    "Description": "GRAPEFRUIT | LEMON ZEST",
+    "AA": "8.8%-10.5%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Cluster | Chinook"
+  },
+  {
+    "id": 230,
+    "Name": "Zeus",
+    "Description": "PUNGENT | BLACK PEPPER | LICORICE | CURRY",
+    "AA": "13%-17.5%�",
+    "Application": "Bittering�",
+    "Substitutes": "Columbus"
+  },
+  {
+    "id": 231,
+    "Name": "Zlatan",
+    "Description": "MILD | NOBLE",
+    "AA": "5.2%�",
+    "Application": "Aroma�",
+    "Substitutes": "Saaz | Hallertau"
+  },
+  {
+    "id": 232,
+    "Name": "Zythos�",
+    "Description": "CITRUS | TROPICAL FRUIT",
+    "AA": "10%-12.5%�",
+    "Application": "Dual Purpose",
+    "Substitutes": "Citra | Simcoe | Amarillo"
+  }
+]

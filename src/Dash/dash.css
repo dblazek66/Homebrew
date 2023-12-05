@@ -1,0 +1,59 @@
+.ontap-container{
+    width: 100%;
+    margin-bottom: 2em;
+
+}
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+  }
+.bg-dark{
+        background-color: #333;
+    color: #fff;
+}
+.beerImage{
+    background-color: #fff;
+    border-radius: 3px;
+    width:2em;
+    text-align: center;
+    margin-right: 1em;
+}
+.beerNum{
+    margin-right: 1em;
+    font-weight: 400;
+}
+.ontap-item{
+    display: flex;
+    margin:.125rem;
+}
+.beerName{
+    display: flex;
+    padding: .25em;
+    font-size: 2rem;
+    margin: .125rem;
+    color: beige;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.beerAbv{
+    font-size: 1rem;
+    font-weight: 400;
+    margin-left: 3rem;
+}
+.beerDesc{
+    padding-left: 2rem;
+    font-style: italic;
+    font-size: .75em;
+}
+.beerStyle{
+    color: aquamarine;
+    margin-left: 3em;
+}
+.seperator{
+    margin-left: 1em;
+    margin-right: 1em;
+}

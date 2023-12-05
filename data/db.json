@@ -1,0 +1,40 @@
+{
+  "ontap": [
+    {
+      "beerName": "Fat tire",
+      "beerStyle": "American Amber Ale",
+      "description": "Fat Tire is a classic American Amber Ale. With aromas of biscuit, caramel, and an herbaceousness on the nose, with the biscuit notes coming across with notes of toastiness as well, balanced by enough hops to dry out the finish of this well-balanced ale.",
+      "ibu": "29",
+      "abv": "5.1",
+      "color": "amber",
+      "id": "5ypcr3V"
+    },
+    {
+      "beerName": "Zombie Piss",
+      "beerStyle": "American Pale Ale",
+      "description": "Nice dry, balanced base beer with enough malt backbone to support but not crowd the hops, interesting hops profile that showcases both piney, resinous, dank flavors with classic American citrus notes and tropical fruit hops flavors, and a very clean fermentation profile to boot.",
+      "ibu": "47",
+      "abv": "5.2",
+      "color": "hazy",
+      "id": "Md-IHve"
+    },
+    {
+      "beerName": "Pilsner Urquell",
+      "beerStyle": "Bohemian Pilsner",
+      "description": "Pilsner Urquell was the world's first pale lager, and its popularity meant it was much copied, and named pils, pilsner or pilsener. It is hopped with Saaz hops, a noble hop variety which is a key element in its flavour profile, as is the use of soft water.",
+      "ibu": "33",
+      "abv": "5",
+      "color": "light",
+      "id": "lTkAZ7A"
+    },
+    {
+      "beerName": "Sweet Stout",
+      "beerStyle": "Sweet Stout",
+      "description": "Chocolatey and sweet",
+      "ibu": "35",
+      "abv": "6",
+      "color": "dark",
+      "id": "bvHBw4y"
+    }
+  ]
+}

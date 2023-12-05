@@ -1,0 +1,53 @@
+[
+{
+"Name":"Balanced",
+"Profile": ["Ca=50", "Mg=10", "Na=16", "Cl=70", "SO4=70"],
+"Description": "Hit minimums on Ca and Mg, keep the Cl:SO4 ratio low and equal. Does not favour flavour / maltiness or bitterness / dryness. For balanced beers.",
+"Recipes": "Blonde Ale / Premium Lager, Cream Ale / Standard Lager, Schwarzbier, English Pub Ale, Irish Red Ale, Dry Irish Stout, Russian Imperial Stout, Witbier, Weizen / Weissbier, Dusseldorf Altbier, Munich Helles, Kolsch, Maibock / Helles Bock, Belgian Dubbel, Belgian Tripel, Belgian Dark Strong Ale (Quadrupel), Belgian Super Saison, Belgian IPA, White IPA"
+},
+
+{
+"Name":"Hoppy",
+"Profile": ["Ca=110", "Mg=18", "Na=16", "Cl=50", "SO4=275"],
+"Description": "High SO4 with restrained Cl which helps accentuate hop bitterness / dryness. For hoppy American styles.",
+"Recipes": "Electric Pale Ale, Electric Pale Ale (Sessionable), Electric Hop Stand Pale Ale, American Amber Ale, Janet's Brown Ale, Electric IPA, Green Flash West Coast IPA, Sierra Nevada Torpedo Extra IPA, Sierra Nevada Ruthless Rye, Bell's Two Hearted Ale, New Zealand IPA, Russian River Pliny the Elder (double IPA), Russian River Pliny the Younger (triple IPA), Stone 'Enjoy By' (double IPA), Bell's Hopslam (double IPA), Firestone Walker Double Jack (double IPA), Kern River Citra Double IPA, American Barleywine, Firestone Walker Wookey Jack Black Rye IPA, English IPA, American Red IPA"
+},
+
+{
+"Name":"Hoppy lite",
+"Profile": ["Ca=110", "Mg=18", "Na=16", "Cl=50", "SO4=100"],
+"Description": "Similar to the 'Hoppy' profile but with less sulfate in order to go easy on accentuating bitterness / dryness. Used in some English styles.",
+"Recipes": "Fuller's ESB, Fuller's London Pride, English Mild"
+},
+
+{
+"Name":"Hoppy New England",
+"Profile": ["Ca=100", "Mg=18", "Na=16", "Cl=200", "SO4=100"],
+"Description": "Increased Cl with restrained SO4 which helps accentuate flavour over bitterness / dryness. The hop bitterness is smoother, less sharp, less dry than our 'Hoppy' profile. Helps support a silky smooth and rich mouthfeel. For hoppy New England style ales.",
+"Recipes": "Electric Hop Candy (New England IPA), Electric Hop Candy Jr. (New England Pale Ale), Electric Creamsicle (New England Pale Ale)"
+},
+{
+"Name":"Soft",
+"Profile": ["Ca=21", "Mg=5", "Na=18", "Cl=16", "SO4=21"],
+"Description": "Just enough to acidify the mash while keeping the water soft.",
+"Recipes": "Czech Premium Pale Lager"
+},
+{
+"Name":"Pilsner",
+"Profile": ["Ca=59", "Mg=8", "Na=16", "Cl=63", "SO4=93"],
+"Description": "Hit close to minimums on Ca and Mg, the Cl:SO4 ratio favours SO4 which enhances hop bitterness but not as much as an aggressively hopped American style.",
+"Recipes": "German Pilsner"},
+
+{
+"Name":"California Common",
+"Profile": ["Ca=50", "Mg=10", "Na=16", "Cl=66", "SO4=77"],
+"Description": "Hit minimums on Ca and Mg, keep the Cl:SO4 ratio low and close to equal with slightly accentuated SO4.",
+"Recipes": "California Common"
+},
+{
+"Name":"Deschutes Black Butte Porter",
+"Profile": ["Ca=129", "Mg=10", "Na=16", "Cl=89", "SO4=136"],
+"Description": "Close to our 'Hoppy lite' profile but with elevated Cl for fuller body/mouthfeel. The numbers come from the Deschutes brewer Jimmy Seifrits.",
+"Recipes": "Deschutes Black Butte Porter"
+}
+]

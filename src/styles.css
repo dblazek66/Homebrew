@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+body{
+    background-color: #fcfcfc;
+    font-family: 'Oxygen', sans-serif;
+    letter-spacing: 1px;
+    margin: 0;
+}
+H1{
+    margin-left: 2em;
+}
+label{
+    font-weight: bold;
+}
+.input-control{
+    font-size: 14pt;
+    font-family: inherit;
+    width: 100%;
+    padding: 6px 12px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: #aaa solid 1px;
+    border-radius: 4px;
+}
+.container{
+    --bs-gutter-x: .5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.content{
+    width: 95%;
+}
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex-container > div {
+    background-color: #f1f1f1;
+    width:100%;
+}
+.card{
+    border:#ccc solid 1px;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 3px;/**/
+    width: 100%;
+}
+.hopBold{
+    font-weight: bold;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.hopItem{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.text-blue{
+    color: dodgerblue;
+}
+.text-grey{
+    color:#666;
+}
+.indent{
+    margin-left: 1.5rem;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    float: left;
+}
+li a{
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #111;
+}
+.salt{
+    border-radius: 4px;
+    height: 130px;
+    width: 135px;
+    background-color: #333;
+    text-align: center;
+    font-size: 36pt;
+    font-weight: 600;
+    margin:.25rem;
+    color: #fff;
+}
+.salt-amt{
+    color: rgb(104, 189, 223);
+    font-size: 22pt;
+    display: block;
+}
+.element-display{
+    display: flex;
+    margin-bottom: 1rem;
+    align-items: center;
+    justify-content: center;
+}
+.control-slimmed{
+    min-width: 200px;
+    max-width: 30%;
+}
+.btn{
+    margin-left: 4px;
+    margin-right: 4px;
+    border-radius: 3px;
+    border: solid 1px #ccc;
+    color:#333;
+    background-color: #aaa;
+}
+.btn:hover{
+    color: #fff;
+    background-color: #1f5d81;
+}
+.styleList{
+    margin-left: 4em;
+}

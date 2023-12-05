@@ -1,0 +1,1271 @@
+[
+  {
+    "Grain": "Bairds English Carastan Malt",
+    "Maltster": "Bairds",
+    "Region": "United Kingdom",
+    "Flavor": "caramel, toffee flavors, slight character of toasted bread",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 35,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Best Malz German Munich Malt",
+    "Maltster": "Best Malz",
+    "Region": "Germany",
+    "Flavor": "smooth, deep maltiness",
+    "Type": "Base Malts, Lightly Kilned and Toasted",
+    "Lovibond": 6.3,
+    "DiastaticPower": "70�"
+  },
+  {
+    "Grain": "Best Malz German Pilsen Malt",
+    "Maltster": "Best Malz",
+    "Region": "Germany",
+    "Flavor": "bright, clean, full-bodied",
+    "Type": "Base Malts",
+    "Lovibond": 1.9,
+    "DiastaticPower": "76�"
+  },
+  {
+    "Grain": "Best Malz German Red X Malt",
+    "Maltster": "Best Malz",
+    "Region": "Germany",
+    "Flavor": "fruits, passionfruit specifically",
+    "Type": "Base Malts",
+    "Lovibond": 12,
+    "DiastaticPower": "62�"
+  },
+  {
+    "Grain": "Briess 2-Row Brewers Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "clean, sweet, mild malty",
+    "Type": "Base Malts",
+    "Lovibond": 1.8,
+    "DiastaticPower": "140�"
+  },
+  {
+    "Grain": "American Honey Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "subtle honey & bread flavors",
+    "Type": "Lightly Kilned and Toasted",
+    "Lovibond": 25,
+    "DiastaticPower": "-"
+  },
+  {
+    "Grain": "Briess Aromatic Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "smooth, clean, rich intense malty",
+    "Type": "Lightly Kilned and Toasted",
+    "Lovibond": 20,
+    "DiastaticPower": "20�"
+  },
+  {
+    "Grain": "Briess Ashburne Mild Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "slighty sweet, subtle toasty",
+    "Type": "Base Malts",
+    "Lovibond": 5.3,
+    "DiastaticPower": "65�"
+  },
+  {
+    "Grain": "Briess Black Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "dry roasted, sharp to neutral",
+    "Type": "Roasted Malts",
+    "Lovibond": 500,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Briess Bonlander Munich Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "slightly sweet, rich malty",
+    "Type": "Base Malts, Lightly Kilned and Toasted",
+    "Lovibond": 10,
+    "DiastaticPower": "40�"
+  },
+  {
+    "Grain": "Briess Caramel 10L Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "Sweet, almost honey like",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 10,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Briess Caramel 120L Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "Caramel, slight roasty/toastiness",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 120,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Briess Caramel 20L Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "sweet, caramel",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 20,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Briess Caramel 40L Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "caramel, sweet",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 40,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Briess Caramel 60L Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "caramel, sweet",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 60,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Briess Caramel 80L Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "caramel, burnt sugar, raisin",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 80,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Briess Caramel 90L Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "caramel, burnt sugar, raisin",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 90,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Briess Caramel Vienne 20L Malt�",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "Soft toffee, caramel, malty",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 20,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Briess Carapils Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "gives impression of fullness",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 1.5,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Briess Cherrywood Smoked Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "Rich, sweet smokiness",
+    "Type": "Base Malts, Lightly Kilned and Toasted",
+    "Lovibond": 5,
+    "DiastaticPower": "140�"
+  },
+  {
+    "Grain": "Briess Chocolate Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "Rich roasted, coffee, cocoa",
+    "Type": "Roasted Malts",
+    "Lovibond": 350,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Briess Goldpils Vienna Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "Rich malty flavor, hint of biscuit",
+    "Type": "Base Malts",
+    "Lovibond": 3.5,
+    "DiastaticPower": "80�"
+  },
+  {
+    "Grain": "Briess Light Roasted Barley",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "Coffee, intense bitter, dry",
+    "Type": "Roasted Malts",
+    "Lovibond": 300,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Briess Midnight Wheat Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "starts slightly sweet, hints of roasted flavor, finishes exceptionally clean",
+    "Type": "Roasted Malts",
+    "Lovibond": 550,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Briess Organic 2-Row Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "mild maltiness",
+    "Type": "Base Malts",
+    "Lovibond": 1.8,
+    "DiastaticPower": "140�"
+  },
+  {
+    "Grain": "Briess Organic C-120L Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "caramel, burnt sugar, raisin",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 120,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Briess Organic C-20L Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "sweet, caramel",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 20,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Briess Organic C-60L Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "caramel, sweet",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 60,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Briess Organic Chocolate Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "roasted coffee, cocoa",
+    "Type": "Roasted Malts",
+    "Lovibond": 350,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Briess Organic Munich Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "rich maltiness",
+    "Type": "Base Malts, Lightly Kilned and Toasted",
+    "Lovibond": 10,
+    "DiastaticPower": "30�"
+  },
+  {
+    "Grain": "Briess Organic Roast Barley Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "Coffee, intense bitter, dry",
+    "Type": "Roasted Malts",
+    "Lovibond": 300,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Briess Pale Ale Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "hints of biscuit and nutlike flavors",
+    "Type": "Base Malts",
+    "Lovibond": 3.5,
+    "DiastaticPower": "85�"
+  },
+  {
+    "Grain": "Briess Pilsen Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "clean, sweet, delicatly malty",
+    "Type": "Base Malts",
+    "Lovibond": 2.7,
+    "DiastaticPower": "140�"
+  },
+  {
+    "Grain": "Briess Rye Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "spicy rye",
+    "Type": "Base Malts",
+    "Lovibond": 3.7,
+    "DiastaticPower": "105�"
+  },
+  {
+    "Grain": "Briess Special Roast Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "toasty, biscuity, sour, tangy",
+    "Type": "Lightly Kilned and Toasted",
+    "Lovibond": 40,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Briess Victory Malt",
+    "Maltster": "Briess",
+    "Region": "United States",
+    "Flavor": "bread-like, nutty, toasty",
+    "Type": "Lightly Kilned and Toasted",
+    "Lovibond": 28,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Canada Malting Pale Ale Malt",
+    "Maltster": "Canada Malting",
+    "Region": "Canada",
+    "Flavor": "toasty, biscuity",
+    "Type": "Base Malts",
+    "Lovibond": 2.7,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Canada Malting Wheat Malt",
+    "Maltster": "Canada Malting",
+    "Region": "Canada",
+    "Flavor": "soft wheat flavor",
+    "Type": "Base Malts",
+    "Lovibond": 2.2,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Cargill Salzgitter German Pilsner Malt",
+    "Maltster": "Crisp",
+    "Region": "Germany",
+    "Flavor": "clean, full-bodied base",
+    "Type": "Base Malts",
+    "Lovibond": 1.6,
+    "DiastaticPower": "110�"
+  },
+  {
+    "Grain": "Crisp English Amber Malt",
+    "Maltster": "Crisp",
+    "Region": "United Kingdom",
+    "Flavor": "biscuit, coffee",
+    "Type": "Lightly Kilned and Toasted",
+    "Lovibond": 29,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Crisp English Brown Malt",
+    "Maltster": "Crisp",
+    "Region": "United Kingdom",
+    "Flavor": "dark roasted flavor, slight bitterness",
+    "Type": "Roasted Malts",
+    "Lovibond": 65,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Crisp English Crystal 77L Malt",
+    "Maltster": "Crisp",
+    "Region": "United Kingdom",
+    "Flavor": "caramel sweetness, mouthfeel, roasty notes",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 77,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Crisp English Pale Malt",
+    "Maltster": "Crisp",
+    "Region": "United Kingdom",
+    "Flavor": "balanced sweet, malty flavor",
+    "Type": "Base Malts",
+    "Lovibond": 3,
+    "DiastaticPower": "50�"
+  },
+  {
+    "Grain": "Crisp English Roasted Barley Malt",
+    "Maltster": "Crisp",
+    "Region": "United Kingdom",
+    "Flavor": "bitter, roasty",
+    "Type": "Roasted Malts",
+    "Lovibond": 192,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Crisp English Torrified Wheat",
+    "Maltster": "Crisp",
+    "Region": "United Kingdom",
+    "Flavor": "smooth, bready",
+    "Type": "Flaked & Unmalted Adjunct Grains",
+    "Lovibond": 2,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Dingemans Belgian Aromatic Malt",
+    "Maltster": "Dingemans",
+    "Region": "Belgium",
+    "Flavor": "Rich maltiness",
+    "Type": "Lightly Kilned and Toasted",
+    "Lovibond": 38.1,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Dingemans Belgian Biscuit Malt",
+    "Maltster": "Dingemans",
+    "Region": "Belgium",
+    "Flavor": "biscuity, 'saltine cracker' flavor",
+    "Type": "Lightly Kilned and Toasted",
+    "Lovibond": 23.4,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Dingemans Belgian Cara 8 Pils Malt",
+    "Maltster": "Dingemans",
+    "Region": "Belgium",
+    "Flavor": "light caramel",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 6,
+    "DiastaticPower": "70�"
+  },
+  {
+    "Grain": "Dingemans Belgian Cara 20 (Caravienne) Malt",
+    "Maltster": "Dingemans",
+    "Region": "Belgium",
+    "Flavor": "light, sweet",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 19,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Dingemans Belgian Debittered Black Malt",
+    "Maltster": "Dingemans",
+    "Region": "Belgium",
+    "Flavor": "mild dark malt flavor, harsh in high quantities",
+    "Type": "Roasted Malts",
+    "Lovibond": 406.6,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Dingemans Belgian Pale Ale Malt",
+    "Maltster": "Dingemans",
+    "Region": "Belgium",
+    "Flavor": "balanced, plain but makes a solid base",
+    "Type": "Base Malts",
+    "Lovibond": 3,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Dingemans Belgian Pilsner Malt",
+    "Maltster": "Dingemans",
+    "Region": "Belgium",
+    "Flavor": "clean, light flavor",
+    "Type": "Base Malts",
+    "Lovibond": 1.7,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Dingemans Belgian Cara 45 Malt",
+    "Maltster": "Dingemans",
+    "Region": "Belgium",
+    "Flavor": "rich, caramel-sweet aroma, full flavor",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 35.3,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Dingemans Belgian Munich Malt",
+    "Maltster": "Dingemans",
+    "Region": "Belgium",
+    "Flavor": "sweet, slightly toasty",
+    "Type": "Base Malts, Lightly Kilned and Toasted",
+    "Lovibond": 8.8,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Dingemans Belgian Special B Malt",
+    "Maltster": "Dingemans",
+    "Region": "Belgium",
+    "Flavor": "Sweet, caramel, dark fruit",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 116.8,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Fawcett English Cara Malt",
+    "Maltster": "Fawcett",
+    "Region": "United Kingdom",
+    "Flavor": "light sweetness",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 12.2,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Fawcett English Crystal Rye Malt",
+    "Maltster": "Fawcett",
+    "Region": "United Kingdom",
+    "Flavor": "Dry liquorice toffee flavour",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 75,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Fawcett English Dark Crystal Malt",
+    "Maltster": "Fawcett",
+    "Region": "United Kingdom",
+    "Flavor": "sweet, grainy, malty, slightly roasty",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 85,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Fawcett English Medium Crystal Malt",
+    "Maltster": "Fawcett",
+    "Region": "United Kingdom",
+    "Flavor": "deep caramel, grainy",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 45,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Fawcett English Oat Malt",
+    "Maltster": "Fawcett",
+    "Region": "United Kingdom",
+    "Flavor": "Enhance body, flavour of dark beers, sweet kernels",
+    "Type": "Base Malts",
+    "Lovibond": 1.9,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Fawcett English Optic Malt",
+    "Maltster": "Fawcett",
+    "Region": "United Kingdom",
+    "Flavor": "sweet, flavourful worts",
+    "Type": "Base Malts",
+    "Lovibond": 2.7,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Fawcett English Pale Chocolate Malt",
+    "Maltster": "Fawcett",
+    "Region": "United Kingdom",
+    "Flavor": "mild chocolate/coffee",
+    "Type": "Roasted Malts",
+    "Lovibond": 188.1,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Fawcett English Pearl Malt",
+    "Maltster": "Fawcett",
+    "Region": "United Kingdom",
+    "Flavor": "sweet, flavourful worts",
+    "Type": "Base Malts",
+    "Lovibond": 2.7,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Flaked Barley",
+    "Maltster": "Adjunct",
+    "Region": "United States",
+    "Flavor": "grainy, creamy",
+    "Type": "Adjunct, Flaked & Unmalted Adjunct Grains",
+    "Lovibond": 1.8,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Flaked Maize",
+    "Maltster": "Adjunct",
+    "Region": "United States",
+    "Flavor": "neutral, moderate sweetness",
+    "Type": "Adjunct, Flaked & Unmalted Adjunct Grains",
+    "Lovibond": 1.5,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Flaked Oats",
+    "Maltster": "Adjunct",
+    "Region": "United States",
+    "Flavor": "creamy, full-bodied",
+    "Type": "Adjunct, Flaked & Unmalted Adjunct Grains",
+    "Lovibond": 1.6,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Flaked Rice",
+    "Maltster": "Adjunct",
+    "Region": "United States",
+    "Flavor": "leave beers drier",
+    "Type": "Adjunct, Flaked & Unmalted Adjunct Grains",
+    "Lovibond": 1.3,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Flaked Rye",
+    "Maltster": "Adjunct",
+    "Region": "United States",
+    "Flavor": "dry, crisp, slightly spicy",
+    "Type": "Adjunct, Flaked & Unmalted Adjunct Grains",
+    "Lovibond": 3.9,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Flaked Wheat",
+    "Maltster": "Adjunct",
+    "Region": "United States",
+    "Flavor": "increases head retention and body",
+    "Type": "Adjunct, Flaked & Unmalted Adjunct Grains",
+    "Lovibond": 1.7,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Franco-Belges Belgian Pilsen Malt",
+    "Maltster": "Franco-Belges",
+    "Region": "Belgium",
+    "Flavor": "clean, light flavor",
+    "Type": "Base Malts",
+    "Lovibond": 1.7,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Franco-Belges Belgian Vienna Malt",
+    "Maltster": "Franco-Belges",
+    "Region": "Belgium",
+    "Flavor": "light caramel aroma and flavor",
+    "Type": "Base Malts, Lightly Kilned and Toasted",
+    "Lovibond": 3.1,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Gambrinus Canadian ESB Pale Malt",
+    "Maltster": "Gambrinus",
+    "Region": "Canada",
+    "Flavor": "Slightly sweeter, richer malt flavor than standard 2-row",
+    "Type": "Base Malts",
+    "Lovibond": 3.5,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Gambrinus Canadian Honey Malt",
+    "Maltster": "Gambrinus",
+    "Region": "Canada",
+    "Flavor": "intense malt sweetness, honey",
+    "Type": "Lightly Kilned and Toasted",
+    "Lovibond": 25,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Leopold Bros. Floor Malted Distiller's Malt",
+    "Maltster": "Leopold Bros",
+    "Region": "United States",
+    "Flavor": "grainy, straw/grassy notes, similar to Irish Whiskey in the finish",
+    "Type": "Base Malts",
+    "Lovibond": "1.2 - 1.7",
+    "DiastaticPower": "194�"
+  },
+  {
+    "Grain": "Leopold Bros. Floor Malted Pale Ale Malt",
+    "Maltster": "Leopold Bros.",
+    "Region": "United States",
+    "Flavor": "honey, biscuit, rich malt notes drifting into Vienna/Munich characters",
+    "Type": "Base Malts",
+    "Lovibond": "3 - 4.5",
+    "DiastaticPower": "86�"
+  },
+  {
+    "Grain": "Leopold Bros. Floor Malted Pilsner Malt",
+    "Maltster": "Leopold Bros.",
+    "Region": "United States",
+    "Flavor": "deeper depth of flavor than traditional US pilsner, straw/grassy notes",
+    "Type": "Base Malts",
+    "Lovibond": "1.6 - 2.4",
+    "DiastaticPower": "140�"
+  },
+  {
+    "Grain": "Leopold Bros. Floor Malted Whiskey Malt",
+    "Maltster": "Leopold Bros.",
+    "Region": "United States",
+    "Flavor": "honey, nutty, toffee, biscuit, drifting into Vienna and Munich character",
+    "Type": "Base Malts",
+    "Lovibond": "4.2 - 6.2",
+    "DiastaticPower": "84�"
+  },
+  {
+    "Grain": "MaltEurop American 2-Row Pale Malt",
+    "Maltster": "MaltEurop",
+    "Region": "United States",
+    "Flavor": "Sweet malty aromas and very subtle nutty flavors",
+    "Type": "Base Malts",
+    "Lovibond": 2,
+    "DiastaticPower": "140�"
+  },
+  {
+    "Grain": "Malting Company of Ireland Stout Malt",
+    "Maltster": "Malting Company of Ireland",
+    "Region": "Ireland",
+    "Flavor": "mild flavored malt, adds a smoothness and depth�",
+    "Type": "Base Malts",
+    "Lovibond": 1.8,
+    "DiastaticPower": "73�"
+  },
+  {
+    "Grain": "MaltWerks Pale Malt",
+    "Maltster": "MaltWerks",
+    "Region": "United States",
+    "Flavor": "full-bodied base malt with a warm, malty sweetness",
+    "Type": "Domestic Base Malt",
+    "Lovibond": 44595,
+    "DiastaticPower": "110-120�"
+  },
+  {
+    "Grain": "MaltWerks Pilsner Malt",
+    "Maltster": "MaltWerks",
+    "Region": "United States",
+    "Flavor": "clean and bright, with mild sweetness",
+    "Type": "Domestic Base Malt",
+    "Lovibond": "1.7-2",
+    "DiastaticPower": "140-150�"
+  },
+  {
+    "Grain": "MaltWerks Distiller's Malt",
+    "Maltster": "MaltWerks",
+    "Region": "United States",
+    "Flavor": "high diastatic power, green grassy character",
+    "Type": "Domestic Base Malt",
+    "Lovibond": 2.07,
+    "DiastaticPower": "117�"
+  },
+  {
+    "Grain": "Mecca Grade Lamonta (American Pale) Malt",
+    "Maltster": "Mecca Grade",
+    "Region": "United States",
+    "Flavor": "sweet, slightly biscuity",
+    "Type": "Base Malts",
+    "Lovibond": 2.8,
+    "DiastaticPower": "150�"
+  },
+  {
+    "Grain": "Mecca Grade Metolius (Munich-style) Malt",
+    "Maltster": "Mecca Grade",
+    "Region": "United States",
+    "Flavor": "warming malt and toasted, graham cracker",
+    "Type": "Base Malts",
+    "Lovibond": 8.7,
+    "DiastaticPower": "65�"
+  },
+  {
+    "Grain": "Mecca Grade Opal 22 (Graham, Cocoa) Malt",
+    "Maltster": "Mecca Grade",
+    "Region": "United States",
+    "Flavor": "lightly-toasted, graham and chocolate flavor",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 15.3,
+    "DiastaticPower": "75�"
+  },
+  {
+    "Grain": "Mecca Grade Opal 44 (Caramelized, Toffee) Malt",
+    "Maltster": "Mecca Grade",
+    "Region": "United States",
+    "Flavor": "sweet, moderately-toasted, with hints of chocolate and raisin",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 30,
+    "DiastaticPower": "45�"
+  },
+  {
+    "Grain": "Mecca Grade Pelton (Pilsner-style) Malt",
+    "Maltster": "Mecca Grade",
+    "Region": "United States",
+    "Flavor": "slightly grassy",
+    "Type": "Base Malts",
+    "Lovibond": 1.9,
+    "DiastaticPower": "180�"
+  },
+  {
+    "Grain": "Mecca Grade Rimrock (Vienna-Style Spring Rye) Malt",
+    "Maltster": "Mecca Grade",
+    "Region": "United States",
+    "Flavor": "warm bread flavor with notes of graham and honey",
+    "Type": "Base Malts",
+    "Lovibond": 4.8,
+    "DiastaticPower": "140�"
+  },
+  {
+    "Grain": "Mecca Grade Shaniko (White Winter Wheat) Malt",
+    "Maltster": "Mecca Grade",
+    "Region": "United States",
+    "Flavor": "super-rich and creamy cloud of flavor, cookie dough",
+    "Type": "Base Malts",
+    "Lovibond": 3.1,
+    "DiastaticPower": "150�"
+  },
+  {
+    "Grain": "Mecca Grade Vanora (Vienna-style) Malt",
+    "Maltster": "Mecca Grade",
+    "Region": "United States",
+    "Flavor": "aromatically-rich, contributing slight walnut flavors",
+    "Type": "Base Malts",
+    "Lovibond": 5.9,
+    "DiastaticPower": "110�"
+  },
+  {
+    "Grain": "Rahr 2-Row Malt",
+    "Maltster": "Rahr",
+    "Region": "United States",
+    "Flavor": "clean, smooth",
+    "Type": "Base Malts",
+    "Lovibond": 2.1,
+    "DiastaticPower": "138�"
+  },
+  {
+    "Grain": "Rahr 6-Row Malt",
+    "Maltster": "Rahr",
+    "Region": "United States",
+    "Flavor": "neutral, slightly grainy",
+    "Type": "Base Malts",
+    "Lovibond": 2.4,
+    "DiastaticPower": "163�"
+  },
+  {
+    "Grain": "Rahr North Star Pils",
+    "Maltster": "Mecca Grade",
+    "Region": "United States",
+    "Flavor": "honey, nutty, sweet bread",
+    "Type": "Base Malts",
+    "Lovibond": "1.5 - 1.9",
+    "DiastaticPower": "120-160�"
+  },
+  {
+    "Grain": "Rahr Pale Ale Malt",
+    "Maltster": "Rahr",
+    "Region": "United States",
+    "Flavor": "slightly toasty and full",
+    "Type": "Base Malts",
+    "Lovibond": 4,
+    "DiastaticPower": "109�"
+  },
+  {
+    "Grain": "Rahr Premium Pilsner Malt",
+    "Maltster": "Rahr",
+    "Region": "United States",
+    "Flavor": "light, smooth",
+    "Type": "Base Malts",
+    "Lovibond": 2,
+    "DiastaticPower": "131�"
+  },
+  {
+    "Grain": "Rahr Red Wheat Malt",
+    "Maltster": "Rahr",
+    "Region": "United States",
+    "Flavor": "slight tartness to its flavor not present in white wheat",
+    "Type": "Base Malts",
+    "Lovibond": 1.8,
+    "DiastaticPower": "163�"
+  },
+  {
+    "Grain": "Rahr Unmalted Wheat",
+    "Maltster": "Rahr",
+    "Region": "United States",
+    "Flavor": "strong grain flavor",
+    "Type": "Flaked & Unmalted Adjunct Grains",
+    "Lovibond": 1.5,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Rahr White Wheat Malt",
+    "Maltster": "Rahr",
+    "Region": "United States",
+    "Flavor": "Full, slightly sweet",
+    "Type": "Base Malts",
+    "Lovibond": 2.5,
+    "DiastaticPower": "171�"
+  },
+  {
+    "Grain": "Rice Hulls",
+    "Maltster": "Adjunct",
+    "Region": "United States",
+    "Flavor": "N/A",
+    "Type": "Adjunct, Flaked & Unmalted Adjunct Grains",
+    "Lovibond": 0,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Simpsons English Golden Promise Malt",
+    "Maltster": "Simpsons",
+    "Region": "United Kingdom",
+    "Flavor": "mellow, sweet, clean",
+    "Type": "Base Malts",
+    "Lovibond": 2.2,
+    "DiastaticPower": "75�"
+  },
+  {
+    "Grain": "Simpsons English Peated Malt",
+    "Maltster": "Simpsons",
+    "Region": "United Kingdom",
+    "Flavor": "intense peat smoke character",
+    "Type": "Base Malts",
+    "Lovibond": 1.5,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Simpsons English Crystal Light Malt",
+    "Maltster": "Simpsons",
+    "Region": "United Kingdom",
+    "Flavor": "clean, mild sweetness and caramel and toffee flavours",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 42,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Simpsons English DRC� Malt",
+    "Maltster": "Simpsons",
+    "Region": "United Kingdom",
+    "Flavor": "complex caramel and dried fruit notes",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 113.1,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Simpsons English Black Malt",
+    "Maltster": "Simpsons",
+    "Region": "United Kingdom",
+    "Flavor": "roasty, black",
+    "Type": "Roasted Malts",
+    "Lovibond": 562.7,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Simpsons English Chocolate Malt",
+    "Maltster": "Simpsons",
+    "Region": "United Kingdom",
+    "Flavor": "bittersweet chocolate, roasty",
+    "Type": "Roasted Malts",
+    "Lovibond": 434.1,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Simpsons English Coffee Malt",
+    "Maltster": "Simpsons",
+    "Region": "United Kingdom",
+    "Flavor": "rich coffee aroma, warmth and depth of flavor",
+    "Type": "Roasted Malts",
+    "Lovibond": 200,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Simpsons English Extra Dark Crystal Malt",
+    "Maltster": "Simpsons",
+    "Region": "United Kingdom",
+    "Flavor": "burnt sugar, dark fruit",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 187.9,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Simpsons English Maris Otter Malt",
+    "Maltster": "Simpsons",
+    "Region": "United Kingdom",
+    "Flavor": "nutty, deep maltiness",
+    "Type": "Base Malts",
+    "Lovibond": 2.4,
+    "DiastaticPower": "75�"
+  },
+  {
+    "Grain": "Simpsons English Golden Naked Oats Malt",
+    "Maltster": "Simpsons",
+    "Region": "United Kingdom",
+    "Flavor": "light caramel, creamy finish",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 5.4,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Warminster English Floor Malted Maris Otter Malt",
+    "Maltster": "Warminster",
+    "Region": "United Kingdom",
+    "Flavor": "full, rich character",
+    "Type": "Base Malts",
+    "Lovibond": 3,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann Barke German Munich Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "richly malt-aromatic, notes of honey and biscuit",
+    "Type": "Base Malts, Lightly Kilned and Toasted",
+    "Lovibond": 7.8,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann Barke German Pilsner Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "intense malt aromas",
+    "Type": "Base Malts",
+    "Lovibond": 1.8,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann Barke German Vienna Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "intensely malt-sweet, gentle notes of honey and nuts",
+    "Type": "Base Malts",
+    "Lovibond": 3.3,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann Eraclea Italian Pilsner Malt",
+    "Maltster": "Weyermann",
+    "Region": "Italy",
+    "Flavor": "noticeable malty-sweet, notes of honey and sun-kissed, honeydew",
+    "Type": "Base Malts",
+    "Lovibond": 1.8,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Acidulated Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "sour",
+    "Type": "Base Malts",
+    "Lovibond": 3.2,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Bohemian Pilsner Malt",
+    "Maltster": "Weyermann",
+    "Region": "Czech Republic",
+    "Flavor": "traditional, Bohemian-style malt flavors",
+    "Type": "Base Malts",
+    "Lovibond": 2.2,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Carafa I Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "deeper aroma for dark beers",
+    "Type": "Roasted Malts",
+    "Lovibond": 350,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Carafa II Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "deeper aroma for dark beers",
+    "Type": "Roasted Malts",
+    "Lovibond": 425,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Carafa III Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "deeper aroma for dark beers",
+    "Type": "Roasted Malts",
+    "Lovibond": 550,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Carafoam Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "delicate maltiness, improved body",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 4.5,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Carahell Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "full, round malt flavor",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 10,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Caramunich I Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "sweet malty aroma and flavor",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 36,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Caramunich II Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "toasty, sweet malt",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 45,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Caramunich III Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "toasty, intense maltiness",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 59.5,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German CaraRed Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "full body",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 20,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German CaraWheat Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "wheaty, caramel",
+    "Type": "Caramel & Crystal Malted Grains",
+    "Lovibond": 50,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Chocolate Rye Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "roasty, spicy",
+    "Type": "Roasted Malts",
+    "Lovibond": 250,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Dark Munich Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "strong malt flavor, deep color",
+    "Type": "Base Malts, Lightly Kilned and Toasted",
+    "Lovibond": 9,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Dark Wheat Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "sweet, wheaty",
+    "Type": "Base Malts",
+    "Lovibond": 17,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Dehusked Carafa I Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "smooth, slight roastyness",
+    "Type": "Roasted Malts",
+    "Lovibond": 350,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Dehusked Carafa II Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "smooth, slight roastyness",
+    "Type": "Roasted Malts",
+    "Lovibond": 425,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Dehusked Carafa III Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "smooth, slight roastyness",
+    "Type": "Roasted Malts",
+    "Lovibond": 525,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Floor Malted Bohemian Pale Wheat",
+    "Maltster": "Weyermann",
+    "Region": "Czech Republic",
+    "Flavor": "creamt mouthfeel, mild sweetness",
+    "Type": "Base Malts",
+    "Lovibond": 2.2,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Floor Malted Bohemian Pilsner",
+    "Maltster": "Weyermann",
+    "Region": "Czech Republic",
+    "Flavor": "traditional, Bohemian-style malt flavors",
+    "Type": "Base Malts",
+    "Lovibond": 2.1,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Vienna Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "full bodied, smooth",
+    "Type": "Base Malts, Lightly Kilned and Toasted",
+    "Lovibond": 3.3,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Melanoidin Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "intense maltiness",
+    "Type": "Lightly Kilned and Toasted",
+    "Lovibond": 70,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Oak-Smoked Pale Wheat Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "finest oak smoke aroma and taste, notes of vanilla and honey",
+    "Type": "Base Malts",
+    "Lovibond": 5,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Pale Ale Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "traditionally clean, smooth",
+    "Type": "Base Malts",
+    "Lovibond": 3.2,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Pale Wheat Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "wheaty",
+    "Type": "Base Malts",
+    "Lovibond": 2.2,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Rye Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "typical rye aroma, notes of bread",
+    "Type": "Base Malts",
+    "Lovibond": 3.3,
+    "DiastaticPower": ""
+  },
+  {
+    "Grain": "Weyermann German Smoked Malt",
+    "Maltster": "Weyermann",
+    "Region": "Germany",
+    "Flavor": "smooth smokeyness",
+    "Type": "Base Malts",
+    "Lovibond": 3.2,
+    "DiastaticPower": ""
+  }
+]
