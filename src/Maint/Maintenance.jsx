@@ -4,7 +4,7 @@ export default function Maintenance(){
 
     return(
         <>
-            <h1>Maint</h1>
+            <h1>Maintenance</h1>
             <Entry/>        
         </>
 

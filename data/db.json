@@ -10,15 +10,6 @@
       "id": "5ypcr3V"
     },
     {
-      "beerName": "Zombie Piss",
-      "beerStyle": "American Pale Ale",
-      "description": "Nice dry, balanced base beer with enough malt backbone to support but not crowd the hops, interesting hops profile that showcases both piney, resinous, dank flavors with classic American citrus notes and tropical fruit hops flavors, and a very clean fermentation profile to boot.",
-      "ibu": "47",
-      "abv": "5.2",
-      "color": "hazy",
-      "id": "Md-IHve"
-    },
-    {
       "beerName": "Pilsner Urquell",
       "beerStyle": "Bohemian Pilsner",
       "description": "Pilsner Urquell was the world's first pale lager, and its popularity meant it was much copied, and named pils, pilsner or pilsener. It is hopped with Saaz hops, a noble hop variety which is a key element in its flavour profile, as is the use of soft water.",
@@ -28,13 +19,13 @@
       "id": "lTkAZ7A"
     },
     {
-      "beerName": "Sweet Stout",
-      "beerStyle": "Sweet Stout",
-      "description": "Chocolatey and sweet",
-      "ibu": "35",
-      "abv": "6",
-      "color": "dark",
-      "id": "bvHBw4y"
+      "beerName": "Smithwick's",
+      "beerStyle": "Irish Red Ale",
+      "description": "The distinctive Ruby Red colour makes it unmistakably Smithwick’s. With a refreshingly balanced taste, this is a blend of mild hops, sweet malt, and roasted barley. The gentle bitterness of the hops is perfectly complemented by the sweet, malty notes.",
+      "ibu": "20",
+      "abv": "3.8",
+      "color": "amber",
+      "id": "ctawvhG"
     }
   ]
 }

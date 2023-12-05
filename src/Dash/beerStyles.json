@@ -16,7 +16,7 @@
     { "style": "German Festbier", "color": "light" },
     { "style": "German Pilsner", "color": "light" },
     { "style": "Helles Bock", "color": "amber" },    
-    { "style": "Irish Red Ale", "color": "light" },
+    { "style": "Irish Red Ale", "color": "amber" },
     { "style": "Kolsch", "color": "light" },
     { "style": "Maibock", "color": "light" },
     { "style": "Mild", "color": "light" },

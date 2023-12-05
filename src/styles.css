@@ -9,8 +9,8 @@ body{
     letter-spacing: 1px;
     margin: 0;
 }
-H1{
-    margin-left: 2em;
+H1,H2,H3,H4,H5{
+    margin-left: 1em;
 }
 label{
     font-weight: bold;
@@ -152,4 +152,7 @@ li a:hover{
 }
 .styleList{
     margin-left: 4em;
+}
+.link-icon{
+    color: dodgerblue;
 }
